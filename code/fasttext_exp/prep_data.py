@@ -28,11 +28,14 @@ def prep_all_data(xml_files, df_truth, clean_data_path, train_test_split):
             df = pd.DataFrame(author_data)
             df_lst.append(df)
         all_dfs = pd.concat(df_lst)
+        # https://stackoverflow.com/questions/29576430/shuffle-dataframe-rows
+        all_dfs = all_dfs.sample(frac=1).reset_index(drop=True)
         bot_human_data_path = str(clean_data_path / f'{train_or_test}_bot_human_data.txt')
         gender_data_path = str(clean_data_path / f'{train_or_test}_gender_data.txt')
         all_dfs.to_csv(bot_human_data_path, columns=['bot_human', 'text'], index=False,
                        header=False, sep=' ')
-        all_dfs.to_csv(gender_data_path, columns=['bot_human', 'text'], index=False,
+        all_dfs_gender = all_dfs[all_dfs['gender'] != '__label__bot']
+        all_dfs_gender.to_csv(gender_data_path, columns=['gender', 'text'], index=False,
                        header=False, sep=' ')
 
 

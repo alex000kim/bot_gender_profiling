@@ -1,0 +1,4 @@
+.idea/
+*.iml
+*.pyc
+clean_data_fasttext_en/
