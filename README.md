@@ -1,6 +1,4 @@
-# Bot and Gender Profiling
-
-https://pan.webis.de/clef19/pan19-web/author-profiling.html
+# Bots and Gender Profiling
 
 Notes are in `notes.md` and are work-in-progress.
 
