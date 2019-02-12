@@ -1,0 +1,113 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[This turned up this morning. https://t.co/mpEQNbabnW]]></document>
+		<document><![CDATA[Well damn! Now I need to rewatch, Alien, Repo Man and Twin Peaks (okay, okay, still doing the latter at the moment). https://t.co/9Zs8fa3OHD]]></document>
+		<document><![CDATA[Looks like @0rangelic and Alexa are having a misunderstanding about the shopping list this morning... https://t.co/uvZgNJeLAi]]></document>
+		<document><![CDATA["it was just a one off script” said someone in reply to some feedback I gave.
+
+Silly, “one off” scripts seldom are.]]></document>
+		<document><![CDATA[RT @crisvector: And finally, the posters of the Parts 17 and 18 (finale) of #TwinPeaks @SHO_TwinPeaks @TPeaksBrasil @Kyle_MacLachlan @DAVID…]]></document>
+		<document><![CDATA[I get that security is hard but... To do things this badly takes actual deliberate effort, surely?
+
+https://t.co/ZDIqp8IvE5]]></document>
+		<document><![CDATA[Apparently the #TwinPeaks theme makes a most excellent rock track! https://t.co/F1mgZd5xKM]]></document>
+		<document><![CDATA[Sudden urge to play Kerbal Space Program…. https://t.co/0MeIbzpGg7]]></document>
+		<document><![CDATA[Time to update my favourite portable OS/editor because security... https://t.co/hqgFxvFoqm]]></document>
+		<document><![CDATA[@pedantic_git Naa. Like every good cliffhanger, it’s…. “What year is it?"]]></document>
+		<document><![CDATA[@borngeek Not sure at the moment. I do love software development, although a slight change of course has some appeal. :)]]></document>
+		<document><![CDATA[After 21 years of loyal service, software company I work for have decided they don't want an in-house developer any more. Job hunt begins.]]></document>
+		<document><![CDATA[@borngeek @0rangelic You won't regret it. Well, you might, but I guess that's part of the reason for watching. 😀]]></document>
+		<document><![CDATA[There seems to be a #TwinPeaks themed specular map applied to our floor @0rangelic https://t.co/Pf6D94kxuv]]></document>
+		<document><![CDATA[RT @MarshallJulius: Burn the land and boil the sea - you can't take this stroller from me. #Firefly #Serenity https://t.co/a9yGU1m6d9]]></document>
+		<document><![CDATA[@spodzone This application is very not-web-friendly though (for good and valid reasons). Which is what makes this all the more worrying.]]></document>
+		<document><![CDATA[@spodzone Last I looked swagger wasn't good with monolithic client-side Win32 applications with file/socket connections though. Unless I missed?]]></document>
+		<document><![CDATA[@spodzone Oh, it's an API alright. Just one that's so old even they can't remember how it works when re-writing it. ;)]]></document>
+		<document><![CDATA[@spodzone Wouldn't really help out here I'm afraid. (although I've used it elsewhere). This is good old file swapping in the file system.]]></document>
+		<document><![CDATA[PPS: This software is VERY MUCH ABOUT NEEDING TO BE SECURE AND STUFF.
+
+(╯°□°）╯︵ ┻━┻]]></document>
+		<document><![CDATA[…it handles badly malformed input (vs well malformed input) by getting responses out of sync.]]></document>
+		<document><![CDATA[…a non-error reply back when the next successful event happens in the software, even if no request was sent. So, actually, these days...]]></document>
+		<document><![CDATA[PS: When I said nothing comes back from badly malformed input, that wasn’t quite true. It’s much worse. Rather than error back it sends...]]></document>
+		<document><![CDATA[Let that sink in for a moment. They’ve improved the software by having it only handle WELL FORMED MALFORMED INPUT. https://t.co/XLTJsRC4zO]]></document>
+		<document><![CDATA[…interesting. Apparently my malformed input is too malformed. To get an error I need a well-formed malformed input.]]></document>
+		<document><![CDATA[This has always worked and worked well. Until now. Now… nothing comes back. Nothing at all. So I get onto their tech people. The reply is...]]></document>
+		<document><![CDATA[I send a (on purpose) malformed file to it and look for an error in reply. No error within a timeout period means it can’t be running.]]></document>
+		<document><![CDATA[This time too. My software has always done an up-front check to make sure that the 3rd party software is there. I use simple method.]]></document>
+		<document><![CDATA[Anyway, they change things once every $BIGNUM years and I need to handle that. I almost always find some odd bug when I do this.]]></document>
+		<document><![CDATA[*Our* software is old and uses an old method of communicating with theirs: they pass text files between each other. I know, I know...]]></document>
+		<document><![CDATA[Okay, I can’t be arsed to blog, so I’l do one of those twitter thread things. This is about some third-party software I’m working with...]]></document>
+		<document><![CDATA[I might be documenting my frustration with a third party supplier in our company’s issue tracker. https://t.co/TgfvhijvzE]]></document>
+		<document><![CDATA[Sensible idea is sensible. https://t.co/6fn6zRSOGc]]></document>
+		<document><![CDATA[RT @DaveLeeBBC: Superb: the BBC's Pidgin service has done a turn on the date poo story https://t.co/wH22wK9vM3]]></document>
+		<document><![CDATA[I just backed It's Magit! The magical Git client on @Kickstarter https://t.co/1o8ENnRlfw]]></document>
+		<document><![CDATA[@katebevan “poe from the real”*]]></document>
+		<document><![CDATA[@katebevan Holy fuck. I’m struggling to tell Poe from the amongst that. (also struggling to not get angry, as step-dad-to-be to someone on spectrum).]]></document>
+		<document><![CDATA[@JayPhonomancer Kinda epic. On the other hand I do wonder how amazing it must have been to wait 25 or so years.]]></document>
+		<document><![CDATA[I'm kind of torn. I've only had it in my life for about 4 weeks. I'm hungry for more! She hooked me and now the supply has run dry! https://t.co/ZtmtfqUjqN]]></document>
+		<document><![CDATA[@katebevan @ReneMillman Not the one in the image though, not really my style. I prefer something a bit more black. ;)]]></document>
+		<document><![CDATA[@katebevan As batshit as it all is…. blokes wearing skirts is a bad thing and is caused by prescription drugs? The fuck? O_o]]></document>
+		<document><![CDATA[RT @IanDunt: So sick of ppl not feeling comfortable in my country. Sick of xenophobes who made them feel this way and the politicians who p…]]></document>
+		<document><![CDATA[Recovering with @0rangelic this morning. Still baffled by what I watched last night. Still glad she got me into #TwinPeaks https://t.co/DFHrx4cvQg]]></document>
+		<document><![CDATA[@JayPhonomancer @0rangelic @irnbru Hell yes. Seeing "our" Coop have other Coop moments was... Unsettling.]]></document>
+		<document><![CDATA[Happy birthday @0rangelic. Thank you for messing up my life with #TwinPeaks. Xxx]]></document>
+		<document><![CDATA[@JayPhonomancer @0rangelic @irnbru Exactly that. I hate that. And I'd want nothing different either. I'm so confused.]]></document>
+		<document><![CDATA[RT @0rangelic: Hard to find words to express how much I have loved #TwinPeaks2017.  Feeling a bit overwhelmed.]]></document>
+		<document><![CDATA[@JayPhonomancer @0rangelic @irnbru Yes. I really needed to know her story.]]></document>
+		<document><![CDATA[Seriously. I'm less frustrated as a Firefly fan than I am as a (new) #TwinPeaks fan. Which is actually awesome.]]></document>
+		<document><![CDATA[@JamesGHBray Holy hell was I ever!]]></document>
+		<document><![CDATA[@JayPhonomancer @0rangelic @irnbru I am so annoyed and outraged. And I bloody love it.]]></document>
+		<document><![CDATA[Well fuck. #TwinPeaks]]></document>
+		<document><![CDATA[Final 15 minutes to go of #TwinPeaks. @0rangelic on a loo break. Out of wine. Now on @irnbru and vodka. Nothing makes sense. Which is nice.]]></document>
+		<document><![CDATA[Episode 17 of #TwinPeaks done. Holy shit. They could have ended there. What the hell does 18 even contain?]]></document>
+		<document><![CDATA[Hold my coffee, I'm going in... #TwinPeaks https://t.co/wuSAVSimD1]]></document>
+		<document><![CDATA[@pedantic_git Even Google Now is a risk. It knows me too well (well, correct values of well, but isn't smart enough to learn not to spoil).]]></document>
+		<document><![CDATA[@pedantic_git I've seen quite a few potential spoilers in the past couple of weeks (since I caught up). Really don't want to spoil tonight.]]></document>
+		<document><![CDATA[Today is "avoid the Internet so the end of #TwinPeaks isn't spoiled" day. This is going to be a nightmare. Sent this without reading twitter]]></document>
+		<document><![CDATA[Might be re-watching #TwinPeaks episode 8 after one wine too many.]]></document>
+		<document><![CDATA[Imagine having a lovely spot by the river, then, one day, a motorway appears! https://t.co/I1vfwgW0oZ]]></document>
+		<document><![CDATA[One of the 50,000 #5 #photoblog https://t.co/1vru74EuKf]]></document>
+		<document><![CDATA[One of the 50,000 #4 #photoblog https://t.co/eUrEgnjA8V]]></document>
+		<document><![CDATA[One of the 50,000 #3 #photoblog https://t.co/XxgtB17XEb]]></document>
+		<document><![CDATA[One of the 50,000 #2 #photoblog https://t.co/zE37b9Bdns]]></document>
+		<document><![CDATA[One of the 50,000 #1 #photoblog https://t.co/sAE1AdOlEg]]></document>
+		<document><![CDATA[From key points on the Queensferry Crossing. https://t.co/BbEVoeMorP]]></document>
+		<document><![CDATA[Having dinner now, but here's a photo from the Queensferry Crossing. Thanks @0rangelic for arranging it. https://t.co/JciTCF24za]]></document>
+		<document><![CDATA[Hmm, looks like most of the tweets from the bridge didn't go through. Thanks twitter.]]></document>
+		<document><![CDATA[https://t.co/g8Lks03j4B]]></document>
+		<document><![CDATA[Getting ready... https://t.co/ZV9zAx0dAm]]></document>
+		<document><![CDATA[Getting ready to head off over the Queensferry Crossing.]]></document>
+		<document><![CDATA[RT @magit_emacs: Magit, the magical Git client is now on Kickstarter! 🎉Please consider becoming a backer. Thanks! https://t.co/cWtBwyHVeg]]></document>
+		<document><![CDATA[RT @localnotail: @parislees @lazaroumterror Stewart Lee described Political Correctness as "Institutionalised Politeness at worst" https://…]]></document>
+		<document><![CDATA[Well look what's turned up on YouTube; arguably the best opening to a movie, ever: https://t.co/ugvevhatbv]]></document>
+		<document><![CDATA[RT @VolcanicArts: New Video! Minecraft | The Cake Baker https://t.co/YmbnZbWmNP]]></document>
+		<document><![CDATA[Power outage also cut short my new Emacs uptime record. :( https://t.co/03n5ZL7Oz9]]></document>
+		<document><![CDATA[Got home to find power had been off. Google Home totally wins the "is everything okay?" answer competition. https://t.co/xgXSZosCnA]]></document>
+		<document><![CDATA[RT @ParrStudio: Hard at work here at @ParrStudio on the 1st major #MartinParr landscape #photography book. Photo - Isle of Skye, A #Scottis…]]></document>
+		<document><![CDATA[Rather like gtop. I think it might replace my use of htop. https://t.co/YDfekMlb1Y]]></document>
+		<document><![CDATA[Oh hello! https://t.co/F6wheWuWa2]]></document>
+		<document><![CDATA[@Manta_Raee Nice choice! Sadly I only have gloss and a very unsteady hand. Normally I get @0rangelic to do mine. https://t.co/51RiQZ3AIu]]></document>
+		<document><![CDATA[This is the way to do it… (small thread) https://t.co/5BTHXhNIZO]]></document>
+		<document><![CDATA[RT @VolcanicArts: New Video! Minecraft Survival | Episode 32 | Design Finished! https://t.co/9OYuWEvm5w]]></document>
+		<document><![CDATA[After #TwinPeaks #photoblog https://t.co/iSFa9wrbfj]]></document>
+		<document><![CDATA[I didn't need to work, or feed kids, or anything, really... https://t.co/VJbBcmpzCN]]></document>
+		<document><![CDATA[@JayPhonomancer @Techgirl522 I'd watch the hell out of a spinoff of those two.]]></document>
+		<document><![CDATA[This! https://t.co/7VZ0leKdeV]]></document>
+		<document><![CDATA[This guy's hair... #TwinPeaks https://t.co/6h9YKR774V]]></document>
+		<document><![CDATA[RT @0rangelic: Jesus fuck, I cried twice. Holy crap. #TwinPeaks #episode16]]></document>
+		<document><![CDATA[Okay. Episode 16 was pretty fucking amazing. Possibly the second best episode this series #TwinPeaks]]></document>
+		<document><![CDATA[Episode 16 of #TwinPeaks - @0rangelic and I are heading in...]]></document>
+		<document><![CDATA[I should not trust @0rangelic to do one for me. Ever. https://t.co/iIdSdyvpYj]]></document>
+		<document><![CDATA[@pedantic_git Shhhhhhhhhhhhhh!]]></document>
+		<document><![CDATA[Attempt at a #CooperTail to scare @0rangelic went badly wrong. Enough #TwinPeaks cosplay for me... https://t.co/lsywg9XOxN]]></document>
+		<document><![CDATA[Two things where Google Home fails vs Alexa, so far:
+
+1) Speaker is terrible quality compared to Echo.
+2) I can't set a Google reminder!]]></document>
+		<document><![CDATA[@0rangelic @pedantic_git  https://t.co/ZTw73oS8B9]]></document>
+		<document><![CDATA[@0rangelic @pedantic_git  https://t.co/uiRDRwE74w]]></document>
+		<document><![CDATA[@pedantic_git @0rangelic  https://t.co/7DLickzmRa]]></document>
+		<document><![CDATA[@pedantic_git @0rangelic  https://t.co/tnBJgMNUPh]]></document>
+		<document><![CDATA[@0rangelic  https://t.co/Z9Uk45l5l2]]></document>
+	</documents>
+</author>

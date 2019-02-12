@@ -1,0 +1,404 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: AVENIDA DE LA VEREDA, OJAI 
+D/T: 06/30/2018 00:38:23 
+#Ojai]]></document>
+		<document><![CDATA[CALL: [FA] Fire Alarm 
+ADDR: 1700 FOOTHILL RD, OJAI 
+D/T: 06/30/2018 00:33:55 
+#Ojai]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: W SANTA BARBARA ST, SANTA PAULA 
+D/T: 06/30/2018 00:29:10 
+#SantaPaula]]></document>
+		<document><![CDATA[CALL: [MU] Mutual Aid 
+ADDR: LANE 
+D/T: 06/24/2018 04:06:57 
+#PaynesCreek]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: EDISON LN, FILLMORE 
+D/T: 06/29/2018 23:35:31 
+#Fillmore]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E MAIN ST, VENTURA 
+D/T: 06/29/2018 23:29:31 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E SANTA CLARA ST, VENTURA 
+D/T: 06/29/2018 23:21:25 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: N VISTAPARK DR, PEACH HILL 
+D/T: 06/29/2018 22:57:40 
+#Moorpark]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: N VENTURA RD, PORT HUENEME 
+D/T: 06/29/2018 22:54:21 
+#PortHueneme]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: KINGS CANYON DR, OXNARD 
+D/T: 06/29/2018 22:46:26 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: W CHANNEL ISLANDS BLVD, OXNARD 
+D/T: 06/29/2018 22:41:36 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: AMBROSE AVE, OXNARD 
+D/T: 06/29/2018 22:39:06 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: CARMEN DR, CAMARILLO 
+D/T: 06/29/2018 22:26:34 
+#Camarillo]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E LOS ANGELES AVE, SIMI VALLEY 
+D/T: 06/29/2018 22:15:40 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: E HUENEME RD, OXNARD PLAINS 
+D/T: 06/30/2018 05:05:27 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: LA PUMA CT, CAMARILLO 
+D/T: 06/30/2018 05:04:57 
+#Camarillo]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: MADERA RD, WOOD RANCH 
+D/T: 06/30/2018 04:51:56 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E OJAI AVE, OJAI 
+D/T: 06/30/2018 04:50:19 
+#Ojai]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: RIVER ST, FILLMORE 
+D/T: 06/30/2018 04:49:54 
+#Fillmore]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E VENTURA BLVD, OXNARD 
+D/T: 06/30/2018 04:33:46 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: ANITA AVE, OXNARD 
+D/T: 06/30/2018 03:24:37 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: N MARVEL AVE, SIMI VALLEY 
+D/T: 06/30/2018 03:18:31 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: N A ST, OXNARD 
+D/T: 06/30/2018 03:15:21 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: DEAN DR, VENTURA 
+D/T: 06/30/2018 02:53:59 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E LAS POSAS RD, CAMARILLO 
+D/T: 06/30/2018 02:30:28 
+#Camarillo]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: ELIAS DR, OXNARD 
+D/T: 06/30/2018 02:11:53 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: N VENTURA AVE, CASITAS SPRINGS 
+D/T: 06/30/2018 01:53:26 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: VIA KATRINA, NEWBURY PARK 
+D/T: 06/30/2018 01:46:24 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [PS] Public Service 
+ADDR: 268 SIESTA AVE, THOUSAND OAKS 
+D/T: 06/30/2018 01:41:42 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: CAYO GRANDE CT, NEWBURY PARK 
+D/T: 06/30/2018 01:18:24 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: BELLERIVE CT, OXNARD 
+D/T: 06/30/2018 10:02:12 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: COUNTRY CLUB DR, WOOD RANCH 
+D/T: 06/30/2018 09:48:33 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: EL MONTE DR, THOUSAND OAKS 
+D/T: 06/30/2018 09:41:45 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: W SANTA ANA ST, OJAI 
+D/T: 06/30/2018 09:32:42 
+#Ojai]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: CAMINO DEL SOL, OXNARD 
+D/T: 06/30/2018 09:32:26 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: GOLD HILL RD, HUNGRY VALLEY 
+D/T: 06/30/2018 09:27:03 
+#FrazierPark]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: SCOTER AVE, VENTURA 
+D/T: 06/30/2018 08:38:47 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: SESPE PL, FILLMORE 
+D/T: 06/30/2018 08:43:30 
+#Fillmore]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: FELICIA CT, OXNARD 
+D/T: 06/30/2018 08:03:40 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: COURTYARD DR, PORT HUENEME 
+D/T: 06/30/2018 08:01:24 
+#PortHueneme]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: RIVERDALE CT, CAMARILLO 
+D/T: 06/30/2018 07:07:11 
+#Camarillo]]></document>
+		<document><![CDATA[CALL: [INV] Investigation 
+ADDR: 233 W FIR AVE, OXNARD 
+D/T: 06/30/2018 07:17:56 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [PS] Public Service 
+ADDR: 242 FOX RIDGE DR, THOUSAND OAKS 
+D/T: 06/30/2018 07:12:02 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: HENDRIX AVE, THOUSAND OAKS 
+D/T: 06/30/2018 06:51:44 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: JOHNSON DR, VENTURA 
+D/T: 06/30/2018 05:41:36 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: TAPO ST, SIMI VALLEY 
+D/T: 06/30/2018 05:30:54 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [VF] Vehicle Fire 
+ADDR: DEAN DR, VENTURA 
+D/T: 06/30/2018 13:52:52 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: HAIGH RD, THOUSAND OAKS 
+D/T: 06/30/2018 12:04:53 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [RES] Rescue 
+ADDR: 4241 ADAM RD, SIMI VALLEY 
+D/T: 06/30/2018 10:20:14 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: TAYLOR LN, FILLMORE 
+D/T: 06/30/2018 05:18:19 
+#Fillmore]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: CAYO GRANDE CT, NEWBURY PARK 
+D/T: 06/30/2018 01:18:24 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E PEARL ST, PORT HUENEME 
+D/T: 06/29/2018 22:07:21 
+#PortHueneme]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: LONGBRANCH RD, SIMI VALLEY 
+D/T: 06/29/2018 21:00:25 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: FROST DR, OXNARD 
+D/T: 06/29/2018 19:28:00 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: 1798 E AVENIDA DE LAS FLORES, THOUSAND OAKS 
+D/T: 06/29/2018 17:36:54 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: PETIT AVE, VENTURA 
+D/T: 06/30/2018 12:03:29 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E 4TH ST, OXNARD 
+D/T: 06/30/2018 11:59:19 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: TELEGRAPH RD, VENTURA 
+D/T: 06/30/2018 11:51:27 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: S VICTORIA AVE, VENTURA 
+D/T: 06/30/2018 11:52:38 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: 507 KALINDA PL, THOUSAND OAKS 
+D/T: 06/30/2018 11:48:10 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E 4TH ST, OXNARD 
+D/T: 06/30/2018 11:34:28 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: SKINNER CT, THOUSAND OAKS 
+D/T: 06/30/2018 11:33:30 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: GLENMONT CT, NEWBURY PARK 
+D/T: 06/30/2018 11:21:36 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E POPLAR ST, OXNARD 
+D/T: 06/30/2018 11:16:58 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [PS] Public Service 
+ADDR: 2879 SHIRLEY DR, NEWBURY PARK 
+D/T: 06/30/2018 11:13:38 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: W BARD RD, OXNARD 
+D/T: 06/30/2018 11:13:34 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: N VENTURA AVE, VENTURA (COUNTY) 
+D/T: 06/30/2018 10:56:43 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: HEYWOOD ST, SIMI VALLEY 
+D/T: 06/30/2018 10:53:06 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: N OXNARD BL, OXNARD 
+D/T: 06/30/2018 10:46:10 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [PS] Public Service 
+ADDR: 612 N LAS POSAS RD, CAMARILLO 
+D/T: 06/30/2018 10:33:59 
+#Camarillo]]></document>
+		<document><![CDATA[CALL: [FA] Fire Alarm 
+ADDR: 12916 WILLIAMS RANCH RD, PEACH HILL 
+D/T: 06/30/2018 10:32:21 
+#Moorpark]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: W MAIN ST, VENTURA 
+D/T: 06/30/2018 13:46:38 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: TELEGRAPH RD, VENTURA 
+D/T: 06/30/2018 13:37:03 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [VF] Vehicle Fire 
+ADDR: NB 101 SO  &amp; SPRINGVILLE, CAMARILLO 
+D/T: 06/30/2018 13:28:09 
+#Camarillo]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: THILLE ST, VENTURA 
+D/T: 06/30/2018 13:26:55 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: TIERRA REJADA RD, SIMI VALLEY 
+D/T: 06/30/2018 13:23:53 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [VEG] Vegetation Fire 
+ADDR: 1600 SPINNAKER DR, VENTURA 
+D/T: 06/30/2018 13:20:46 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: SPINNAKER DR, VENTURA 
+D/T: 06/30/2018 13:07:07 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [PS] Public Service 
+ADDR: CARNE RD, OJAI 
+D/T: 06/30/2018 13:06:51 
+#Ojai]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E THOMPSON BLVD, VENTURA 
+D/T: 06/30/2018 12:59:07 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: S HARBOR BLVD, OXNARD 
+D/T: 06/30/2018 12:54:43 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E SANTA BARBARA ST, SANTA PAULA 
+D/T: 06/30/2018 12:43:19 
+#SantaPaula]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E OJAI AVE, OJAI 
+D/T: 06/30/2018 12:36:46 
+#Ojai]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: OAK BEND, OAK PARK 
+D/T: 06/30/2018 12:36:20 
+#OakPark]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: LAS TUNAS PL, OXNARD 
+D/T: 06/30/2018 12:28:07 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: S VENTURA ST, OJAI 
+D/T: 06/30/2018 12:21:29 
+#Ojai]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: 36000 QUAIL CANYON RD, HUNGRY VALLEY 
+D/T: 06/30/2018 12:06:50 
+#Lebec]]></document>
+		<document><![CDATA[CALL: [PS] Public Service 
+ADDR: 50 E THOUSAND OAKS BLVD, THOUSAND OAKS 
+D/T: 06/30/2018 14:56:56 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: E VENTURA BLVD, OXNARD 
+D/T: 06/30/2018 14:56:11 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [SF] Structure Fire 
+ADDR: 1700 E VENTURA BLVD, OXNARD 
+D/T: 06/30/2018 14:55:26 
+#Oxnard]]></document>
+		<document><![CDATA[CALL: [PS] Public Service 
+ADDR: 1216 LYNNMERE DR, THOUSAND OAKS 
+D/T: 06/30/2018 14:43:45 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: HERITAGE OAKS CT, SIMI VALLEY 
+D/T: 06/30/2018 14:42:59 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: CAMPUS DR, THOUSAND OAKS 
+D/T: 06/30/2018 14:42:39 
+#ThousandOaks]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: E POTRERO RD, WESTLAKE 
+D/T: 06/30/2018 14:37:31 
+#WestlakeVillage]]></document>
+		<document><![CDATA[CALL: [VEG] Vegetation Fire 
+ADDR: NB 101 NO  &amp; STATE BEACHES EXIT 72, VENTURA 
+D/T: 06/30/2018 14:34:15 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [VEG] Vegetation Fire 
+ADDR: NB 101 NO  &amp; E MAIN ST EXIT 66B, VENTURA 
+D/T: 06/30/2018 14:34:46 
+#Ventura]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: CARMEN DR, CAMARILLO 
+D/T: 06/30/2018 14:28:24 
+#Camarillo]]></document>
+		<document><![CDATA[CALL: [ME] Medical Emergency 
+ADDR: ROYAL AVE, SIMI VALLEY 
+D/T: 06/30/2018 14:22:28 
+#SimiValley]]></document>
+		<document><![CDATA[CALL: [TC] Traffic Collision 
+ADDR: SOUTH MOUNTAIN RD, SOUTH MOUNTAIN 
+D/T: 06/30/2018 14:21:48 
+#SantaPaula]]></document>
+		<document><![CDATA[CALL: [MU] Mutual Aid 
+ADDR: 36000 QUAIL CANYON RD, HUNGRY VALLEY 
+D/T: 06/30/2018 14:19:07 
+#Lebec]]></document>
+	</documents>
+</author>

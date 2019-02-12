@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[EntityManager::getFieldDefinitions() replaces entity_get_all_property_info and entity_get_property_info http://t.co/R6JeJTYkNM]]></document>
+		<document><![CDATA[The language fallback logic has been moved onto the language manager http://t.co/G61HqVZOTG]]></document>
+		<document><![CDATA[theme('item_list') has a new 'empty' variable http://t.co/KI8X0gROOU]]></document>
+		<document><![CDATA[Routes, tabs and local actions got title text context support http://t.co/iVwwGChCpU]]></document>
+		<document><![CDATA[drupal_*_form() methods are replaced by a form builder service http://t.co/FhSJfK2M9W]]></document>
+		<document><![CDATA[comment_links() moved into CommentRenderController http://t.co/UcSrHUiUgL]]></document>
+		<document><![CDATA[Move Widget, Formatter, and FieldType plugin types to the Core\Field system http://t.co/rZ0yKeSCyz]]></document>
+		<document><![CDATA[Non reusable access checkers can be defined directly in the routing definition http://t.co/30dQxtDws8]]></document>
+		<document><![CDATA[format_plural has moved to translation service as formatPlural. formatInterval has moved to date service as for... http://t.co/eZS2JXpbUB]]></document>
+		<document><![CDATA[The $reindex parameter has been removed from search_reindex http://t.co/YB4YvWHSlQ]]></document>
+		<document><![CDATA[drupal_get_form() to initiate an existing or new class name http://t.co/tU50Gy1bLt]]></document>
+		<document><![CDATA[Normalize Controller/View-listener behavior with a Page object http://t.co/mHemWTYgCo]]></document>
+		<document><![CDATA[Configuration override API simplified, built-in language support included http://t.co/d6yK5V73pp]]></document>
+		<document><![CDATA[Search plugins updated http://t.co/bt7wxR52Cn]]></document>
+		<document><![CDATA[drupal_add_js() and drupal_add_css() should no longer be used http://t.co/bkQipVQjzI]]></document>
+		<document><![CDATA[Enable modules to inject attributes into field formatters, so that RDF attributes get output http://t.co/T0voFkwu8G]]></document>
+		<document><![CDATA[Files got creation time tracking, standardized changed time tracking http://t.co/PWRui1gPDw]]></document>
+		<document><![CDATA[drupal.base.css replaced by normalize.css http://t.co/XQ2frvdjKm]]></document>
+		<document><![CDATA[Generic CSS moved to new file in Seven theme http://t.co/6hb8SrlclB]]></document>
+		<document><![CDATA[field_attach_preprocess() is removed http://t.co/EnSYajUK3Z]]></document>
+		<document><![CDATA[ControllerBase implements ContainerInjectionInterface like FormBase http://t.co/2MN7Dokjti]]></document>
+		<document><![CDATA[Setting the "active" class on links is now deterministic and an opt-in feature of l(), LinkGenerator and theme_... http://t.co/rHx0iN8qEH]]></document>
+		<document><![CDATA[Each image toolkit is able now to provide its own requirements http://t.co/aBx8YdKh1M]]></document>
+		<document><![CDATA[Entity label() method does not have a $langcode argument anymore http://t.co/X4wpD05AZy]]></document>
+		<document><![CDATA[Improved DX and altered keys for local tasks definitions http://t.co/Ca32GEYzGF]]></document>
+		<document><![CDATA[Contextual Links are provided by plugins implementing ContextualLinkInterface and using YAML discovery instead ... http://t.co/Rz9ty84HhJ]]></document>
+		<document><![CDATA[drupal_mail() now uses 'reply-to:' instead of 'from:' header http://t.co/NLtD5exi1C]]></document>
+		<document><![CDATA[Structure of $config_directories variable in settings.php changed http://t.co/9H1kXHuLlW]]></document>
+		<document><![CDATA[Modules (or Drupal 7 module-equivalent features) added to core in Drupal 8 http://t.co/sFk3NqKoTx]]></document>
+		<document><![CDATA[$user-&gt;theme and per-user custom theme check removed http://t.co/wrOAfIaguO]]></document>
+		<document><![CDATA[Content viewing counter statistics can now be collected asynchronously  http://t.co/Ya30WApEtz]]></document>
+		<document><![CDATA[Configuration schemas now optionally used for type casting http://t.co/1U1p0dY6M4]]></document>
+		<document><![CDATA[drupal_add_tabledrag() has been replaced by drupal_attach_tabledrag http://t.co/HxXJFaAJT0]]></document>
+		<document><![CDATA[drupal_add_html_head_link() deprecated in favour of #attached['drupal_add_html_head_link'] http://t.co/aMyr9uEDsO]]></document>
+		<document><![CDATA[Make datatype callback handling more flexible http://t.co/gpKvaVDyrs]]></document>
+		<document><![CDATA['theme callback' and hook_custom_theme() got replaced by theme negotiators http://t.co/ZGQxdgjktt]]></document>
+		<document><![CDATA[Shortcuts are standalone entities http://t.co/Nlu8hcVRwY]]></document>
+		<document><![CDATA[Added a rebuild script http://t.co/DWh4fjBkaU]]></document>
+		<document><![CDATA[COMMENT_NOT_PUBLISHED &amp; COMMENT_PUBLISHED constants are moved to CommentInterface http://t.co/7g64g0E0xn]]></document>
+		<document><![CDATA[Converting the entire core markup to Twig http://t.co/m1ydzY3sSE]]></document>
+		<document><![CDATA[hook_field_extra_fields() 'label' is no longer sanitized http://t.co/OgvmtfQF1u]]></document>
+		<document><![CDATA[theme_system_powered_by() has been removed http://t.co/WMxQOpkc42]]></document>
+		<document><![CDATA[Add default UUIDs to shipped configuration entities (for now) http://t.co/m9ywZYpfnz]]></document>
+		<document><![CDATA[The configuration system will not change data types anymore http://t.co/ycWQtqhW4t]]></document>
+		<document><![CDATA[New Drupal\Core\Extension\Dependency to parse and check Drupal module dependencies https://t.co/Ieo3gVDC5w]]></document>
+		<document><![CDATA[Allow contrib/custom modules to grant field-level access to User fields https://t.co/HbImOMGkm1]]></document>
+		<document><![CDATA[MediaFunctionalTestCreateMediaTypeTrait replaced by MediaTypeCreationTrait https://t.co/DL5IFOhAMX]]></document>
+		<document><![CDATA[Use mb_* functions instead of Unicode::* methods https://t.co/JaseUca0tK]]></document>
+		<document><![CDATA[Content translations can be moderated independently https://t.co/pJwoO4Kf75]]></document>
+		<document><![CDATA[New term overview and create permissions https://t.co/ZVVhBbqnHg]]></document>
+		<document><![CDATA[Symfony components updated to 3.4.x https://t.co/WuB9pF25qT]]></document>
+		<document><![CDATA[Multi-value base fields in views no longer use an incorrect field name https://t.co/mcutD627UW]]></document>
+		<document><![CDATA[Allow for more granular overriding of driver settings for tests  https://t.co/i6OmBJ2Rjg]]></document>
+		<document><![CDATA[EntityFormDisplay &amp; EntityViewDisplay entity types now have access control handlers https://t.co/A8DQHNObE1]]></document>
+		<document><![CDATA[Resource plugin methods can leverage the argument resolver now https://t.co/BGYqotJ63d]]></document>
+		<document><![CDATA[The internal page cache now has a dedicated cache bin. https://t.co/fWxj1ymtNo]]></document>
+		<document><![CDATA[Rename MigrationCreationTrait to MigrationConfigurationTrait  https://t.co/KxjzaFlsuD]]></document>
+		<document><![CDATA[Image styles will fail more gracefully with unsupported formats https://t.co/xhwPjSomj8]]></document>
+		<document><![CDATA[New drupal_is_https() API function added https://t.co/6WhqROlpIJ]]></document>
+		<document><![CDATA[Drupal 7 adds menu tree render structure to (pre-)process hooks for theme_menu_tree() https://t.co/iS3AZSOdiE]]></document>
+		<document><![CDATA[md_entity destination plugin deprecated https://t.co/f04DGBMkaf]]></document>
+		<document><![CDATA[Input to BlockRegion process plugin has changed https://t.co/pxQmnfZCGU]]></document>
+		<document><![CDATA[The handling of database settings and/or connection problems is made more friendly. https://t.co/njYf21Xkr8]]></document>
+		<document><![CDATA[Date-only fields ignore time zone configuration now https://t.co/Budt1HeoDR]]></document>
+		<document><![CDATA[SkipProcessException sets values to NULL https://t.co/2oLZypWjJX]]></document>
+		<document><![CDATA[Introduce composer.json files for Drupal\Component\* http://t.co/9W8DhrCRwB]]></document>
+		<document><![CDATA[config.inc is deprecated http://t.co/Z0oOHamnM2]]></document>
+		<document><![CDATA[hook_forms() has been removed http://t.co/5zSjPkWBc9]]></document>
+		<document><![CDATA[Simpletests now run as clean multi-site installations in /sites/simpletest/ http://t.co/O71tOjlpIM]]></document>
+		<document><![CDATA[Modules cannot be in a disabled state anymore, only installed and uninstalled http://t.co/snoKW2RNBg]]></document>
+		<document><![CDATA[menu_get_object() removed, arguments can be accessed from the Request object http://t.co/3wSnBQ5lhz]]></document>
+		<document><![CDATA[Drupal::hasService() added http://t.co/0m7YzxZOkq]]></document>
+		<document><![CDATA[BlockPluginInterface::access gets passed in the account http://t.co/ze592wKFJv]]></document>
+		<document><![CDATA[Removed default value for 'nomask' option in file_scan_directory() http://t.co/n3yIFObvBu]]></document>
+		<document><![CDATA[system_get_module_info()/ModuleInfo removed from Core http://t.co/VRtmHS84Wc]]></document>
+		<document><![CDATA[EntityOwnerInterface added that allows to identify and change the owner of an entity http://t.co/8T4VPPEE4E]]></document>
+		<document><![CDATA[user_is_blocked() now returns a boolean value http://t.co/Aqyox6F55T]]></document>
+		<document><![CDATA[Blcocks are stored as configuration entities http://t.co/UWioE1Lp09]]></document>
+		<document><![CDATA[Router rebuilding is lazy now http://t.co/ipPWDK758H]]></document>
+		<document><![CDATA[form_set_error() in FormBase classes replaced with setFormError method http://t.co/syZslgm1xO]]></document>
+		<document><![CDATA[Widgets and formatters can be used on base fields in a ContentEntity http://t.co/UXHX8kH8CR]]></document>
+		<document><![CDATA[CacheCollector added to support maintaining a single cache of a set of data, deprecated CacheArray http://t.co/iMkI0HpgLv]]></document>
+		<document><![CDATA[Drupal 7 sites can no longer be upgraded to Drupal 8 with update.php http://t.co/XOkQmAASDx]]></document>
+		<document><![CDATA[Modules primarily providing field types are now in the 'Field type' package http://t.co/cClsqMe6XZ]]></document>
+		<document><![CDATA[Added form modes UI and configuration entity http://t.co/LHFPy91gxI]]></document>
+		<document><![CDATA[Converted user_page() to a new style controller http://t.co/qq6mZ75OJE]]></document>
+		<document><![CDATA[simpletest - added a drupalProcessAjaxResponse() method to WebTestBase http://t.co/FpAdENawBQ]]></document>
+		<document><![CDATA[UUID service added to generate unique identifiers http://t.co/YJef6Ysz26]]></document>
+		<document><![CDATA[entityType() method renamed to getEntityTypeId(), entityInfo() to getEntityType() in EntityInterface and EntityS... http://t.co/SluEBcreXC]]></document>
+		<document><![CDATA[Menu links are now defined via  hook_menu_link_defaults instead of hook_menu http://t.co/WeCS2Gb6Hz]]></document>
+		<document><![CDATA[CacheableInterface http://t.co/FjCz2tm1iU]]></document>
+		<document><![CDATA[The variable_get/set/del API is now removed http://t.co/9toXQ96n5M]]></document>
+		<document><![CDATA[Use standards indentation in JS files http://t.co/5s1YYAsEqr]]></document>
+		<document><![CDATA[Supply CacheBackendInterface::CACHE_PERMANENT as Cache::PERMANENT http://t.co/a5pjyEZQKB]]></document>
+		<document><![CDATA[Configuration override API unified with configuration language API http://t.co/88VjuRSSGP]]></document>
+		<document><![CDATA[Language negotiation settings moved to configuration from variables http://t.co/YCt2ngRauM]]></document>
+		<document><![CDATA[Element::properties() replaces element_properties(), must be passed an array http://t.co/6CsWAp2SS6]]></document>
+		<document><![CDATA[element_* functions deprecated; use Element class methods instead http://t.co/HaTwAQfbjx]]></document>
+		<document><![CDATA[language_default converted to CMI http://t.co/c2IC9ZHXeb]]></document>
+		<document><![CDATA[drupal_cron_run() replaced by Cron service http://t.co/s3J82zvHf0]]></document>
+	</documents>
+</author>

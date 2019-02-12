@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[Entity Controllers can get dependencies injected via a createInstance method http://t.co/9N21kGtfmE]]></document>
+		<document><![CDATA[TypedDataInterface::getType() removed in favor of interfaces and more specific methods http://t.co/PHfgRyEiXd]]></document>
+		<document><![CDATA[#theme_wrappers are now able to have a unique set of variables per wrapper hook http://t.co/rFwTYjU6bQ]]></document>
+		<document><![CDATA[config() is deprecated and should be replace by Drupal::config() http://t.co/Ee0mrLLYRy]]></document>
+		<document><![CDATA[REST resources can define supported authentication providers http://t.co/xNVDjYhvyu]]></document>
+		<document><![CDATA[Field API hooks moved to typed data plugins http://t.co/QnKnfeYrSV]]></document>
+		<document><![CDATA[Bootstrap hooks no longer exist http://t.co/DL4WybtfEF]]></document>
+		<document><![CDATA[Added history_read_multiple() https://t.co/xKygU5Kt66]]></document>
+		<document><![CDATA[local task plugins work on by default on most paths with a dynamic value (like a node) http://t.co/Ph3lWRncBE]]></document>
+		<document><![CDATA[Configuration entities support the links annotation for much easier URI specification http://t.co/otHJ0CI9sW]]></document>
+		<document><![CDATA[For Configuration Entities Delete is a button/link not a tab http://t.co/tolRFQCFA5]]></document>
+		<document><![CDATA[drupal_parse_dependency() is now \Drupal\Core\Extension\ModuleHandler::parseDependency() http://t.co/CJREbUAXTw]]></document>
+		<document><![CDATA[Removed text_sanitize() and safe_value/safe_summary in favor of processed/summary_processed http://t.co/4UIKgv7M5h]]></document>
+		<document><![CDATA[Remove CSS_AGGREGATE_SYSTEM aggregate file http://t.co/s7Li5NAlff]]></document>
+		<document><![CDATA[Added FieldDefinitionInterface. Most code that in D7 interacted with $field and $instance arrays should instead... http://t.co/bm8gZ4SVuf]]></document>
+		<document><![CDATA[Reference native PHP/global classes with a preceding "\", rather than "use"ing them http://t.co/l4qWH9fGWX]]></document>
+		<document><![CDATA[\Drupal\system\SystemConfigFormBase is now \Drupal\Core\Form\ConfigFormBase http://t.co/UAGDVycpcN]]></document>
+		<document><![CDATA["pattern" is now "path" in *.routing.yml files http://t.co/ELnyDztmwv]]></document>
+		<document><![CDATA[Router item naming convention http://t.co/J9WUZtXcIK]]></document>
+		<document><![CDATA[DraggableListController is available for entity types http://t.co/L6yTEABmbZ]]></document>
+		<document><![CDATA[ConfirmFormBase::getCancelPath() has been replaced with getCancelRoute() http://t.co/jpeTHYE2OV]]></document>
+		<document><![CDATA[PHP Filter module removed from Drupal core http://t.co/E85I4uhes7]]></document>
+		<document><![CDATA[ConfigurablePluginInterface for plugins with settings http://t.co/6S7WqmWnec]]></document>
+		<document><![CDATA[$langcode parameter removed in field_form_get_state() and field_form_set_state() http://t.co/pb4plTRitd]]></document>
+		<document><![CDATA[Fields are no more nested under $langcode in entity $form structures http://t.co/leVaBVZhfx]]></document>
+		<document><![CDATA[drupalPost() and drupalPostAJAX() have been renamed http://t.co/NFGSLXRs6R]]></document>
+		<document><![CDATA[Streamlining Plugin Annotation Class Loading  https://t.co/1mGa09OLms]]></document>
+		<document><![CDATA[New History JS API — history markers no longer break the render cache http://t.co/5uk1plZD9s]]></document>
+		<document><![CDATA[Block plugins for menus have been unified http://t.co/Y9STIN6ZSB]]></document>
+		<document><![CDATA[Added a request helper to clone into a request with a specified URI. http://t.co/Snp5RpXml6]]></document>
+		<document><![CDATA[Generic solution available for entity editing overwrite avoidance http://t.co/5HPcdyJbIH]]></document>
+		<document><![CDATA[local task plugins discovery changed to use YamlDiscovery instead of annotated class discovery http://t.co/DPJPeTM9CV]]></document>
+		<document><![CDATA[Convert admin core listing pages to a View, keep a non-views fallback with no bulk operations http://t.co/4eBPE69LhT]]></document>
+		<document><![CDATA[Image file objects are classed http://t.co/PJvLlRJgxa]]></document>
+		<document><![CDATA[Theme system ensures that theme() returns a string http://t.co/R3XNVk6dIO]]></document>
+		<document><![CDATA[upcasting converters replaced with ParamConverter Service http://t.co/OMv15mauHh]]></document>
+		<document><![CDATA[Remove 'Attach' button from file inputs http://t.co/bhGfkGS7AW]]></document>
+		<document><![CDATA[System modules's configured action entity is prefixed with system.action  http://t.co/xbsA6ETT8x]]></document>
+		<document><![CDATA[Special request attributes are marked with an underscore prefix http://t.co/IXRZJD8HYU]]></document>
+		<document><![CDATA[Legacy procedural functions removed from filter.module http://t.co/VCHNtrILJP]]></document>
+		<document><![CDATA[Search module interacts with search plugins instead of finding implementations via hook_search_info https://t.co/kuztqmWZcQ]]></document>
+		<document><![CDATA["Administer Users" permission are separate from "Administer Account Settings" http://t.co/PWuI7vAgnc]]></document>
+		<document><![CDATA[DRUPAL_CORE_COMPATIBILITY and VERSION constants have been removed https://t.co/n4TPqmur2b]]></document>
+		<document><![CDATA[Field / FieldItem value objects hold their own langcode http://t.co/ufUCXQKZuF]]></document>
+		<document><![CDATA[Field.module constants related to storage moved to EntityStorageControllerInterface http://t.co/SPBF3W1LFj]]></document>
+		<document><![CDATA[Use Composer's ClassLoader to handle class loading http://t.co/9AI510z6If]]></document>
+		<document><![CDATA[Rename ControllerInterface to ContainerInjectionInterface http://t.co/8GI3JmN3EQ]]></document>
+		<document><![CDATA[ForumManager added http://t.co/inRWDU01PE]]></document>
+		<document><![CDATA[Alternative way of string translation for injected classes http://t.co/agsTH7iSHI]]></document>
+		<document><![CDATA[New EntityChangedInterface interface added for entities with change timestamps http://t.co/CnLEAvwL6i]]></document>
+		<document><![CDATA[Url related functions got moved to a new URL component (drupal_get_query_parameters,drupal_get_query_array,drup... http://t.co/S7H0hlD7sf]]></document>
+		<document><![CDATA[Add a method to the AccessManager that only needs a route name and parameters http://t.co/jn9OpQzsPi]]></document>
+		<document><![CDATA[Fields are no longer handled invidually and are bound to an entity type http://t.co/2h0AqMWC44]]></document>
+		<document><![CDATA[The pluginBase class contains a t() method http://t.co/3ZHBbaToJ3]]></document>
+		<document><![CDATA[Dynamic routes can now be registered easier using the RouteSubscriberBase http://t.co/6Lco2pTwhy]]></document>
+		<document><![CDATA[Drupal 8.x-dev will now properly download Drupal 8 alpha translations http://t.co/7GQj4UXiUr]]></document>
+		<document><![CDATA[Introduced \Drupal\Core\Access\AccessInterface for unified access control http://t.co/Yj75zuBQBj]]></document>
+		<document><![CDATA[\Drupal\Core\TypedData\AccessibleInterface is now \Drupal\Core\TypedData\AccessibleInterface http://t.co/gjIUGOyegM]]></document>
+		<document><![CDATA[CommentManagerInterface for common functions to manage comment fields  http://t.co/UfGGDRK8pg]]></document>
+		<document><![CDATA[Convert entity field types to the field_type plugin http://t.co/enrbShsESq]]></document>
+		<document><![CDATA[Field definitions for entity keys and language cannot be made translatable http://t.co/w9c17MR9Yd]]></document>
+		<document><![CDATA[Quick string overrides are now in $settings, not $conf http://t.co/wsJR25sDRl]]></document>
+		<document><![CDATA[Entity Access allows to specify an admin permission http://t.co/rNk6d1h0ps]]></document>
+		<document><![CDATA[The access mode defaults to ALL now http://t.co/JcaNAPb1kR]]></document>
+		<document><![CDATA[ConfigEntityInterface::setOriginalID() is now setOriginalId() and returns self http://t.co/wNq1cEaN9b]]></document>
+		<document><![CDATA[DBTNG condition() and NULL handling have changed http://t.co/bppbalA70m]]></document>
+		<document><![CDATA[Info file configure link are converted to route name http://t.co/l2WP2rcsOO]]></document>
+		<document><![CDATA[BreadcrumbBuilderBase is added to remove the boilerplate code from BreadcrumbBuilders http://t.co/zaFisWQc6z]]></document>
+		<document><![CDATA[field_bundle_settings() has been removed. http://t.co/Z0RFEx6ALc]]></document>
+		<document><![CDATA[Image type was decoupled from the image file extension http://t.co/Av62g8tXmp]]></document>
+		<document><![CDATA[Legacy node-copy based content translation module removed http://t.co/AiWTFSgzMp]]></document>
+		<document><![CDATA[LocalActions use YAML as the main discovery and handle routes with parameters http://t.co/UAm2BBcVWo]]></document>
+		<document><![CDATA[field_behaviors_widget() is removed http://t.co/RK81ogwX7q]]></document>
+		<document><![CDATA[Rename \Drupal\Core\Entity\Field\Field, related subclasses and interfaces to *FieldItemList http://t.co/NBvmKd3Kla]]></document>
+		<document><![CDATA[field_access() / hook_field_access() are replaced by the Entity access API http://t.co/qjRvwCM5B0]]></document>
+		<document><![CDATA[New hooks for theme suggestions http://t.co/XhqlWFlUsH]]></document>
+		<document><![CDATA[hook_views_plugins_alter() replaced by plugin type-specific hook_views_plugins_PLUGIN_TYPE_alter() http://t.co/1N708IjX5r]]></document>
+		<document><![CDATA[Comment settings are now a field. Comments allowed on any entity type. http://t.co/c1i79fhQ2M]]></document>
+		<document><![CDATA[The default breadcrumb builder is path-based and decoupled from menu links http://t.co/Z4gterEIx7]]></document>
+		<document><![CDATA[Annotation based plugins don't need a use statement anymore http://t.co/9JNmErKCVW]]></document>
+		<document><![CDATA[The '_title_callback' from the route defaults should be used for dynamic page titles http://t.co/SkzykXlCJK]]></document>
+		<document><![CDATA[Introduce hook_entity_access() and hook_entity_create_access() http://t.co/5xbT4qZ5ll]]></document>
+		<document><![CDATA[Entity render output is now cached by default http://t.co/re67O0xyeD]]></document>
+		<document><![CDATA[Per-user block visibility customization functionality removed http://t.co/UMp5vrPMTd]]></document>
+		<document><![CDATA[New #post_render_cache property for Render API: personalization without breaking render cache http://t.co/cwAGYRlblX]]></document>
+		<document><![CDATA[list_themes(), theme_enable() and theme_disable() have been replaced with a new service http://t.co/hIL3ENBkG2]]></document>
+		<document><![CDATA[PHP Super-globals replaced with Symfony Request object http://t.co/toTe9u2OWp]]></document>
+		<document><![CDATA[Functions theme_exposed_filters() and drupal_common_theme() removed http://t.co/6RWm23zOQW]]></document>
+		<document><![CDATA[Star character removed from require field labels; required-ness now indicated semantically with ARIA and visual... http://t.co/wv9ps9gx1n]]></document>
+		<document><![CDATA[Language codes for original field values always match entity language regardless of field translatability http://t.co/HU9EZ5VXEs]]></document>
+		<document><![CDATA[Content field translation settings are easily reversible http://t.co/9apPC1MjoD]]></document>
+		<document><![CDATA[Supported formats and authentication are now defined explicitly per each REST resource http://t.co/VL57mf9qDu]]></document>
+		<document><![CDATA[Form error functions now require $form_state http://t.co/h0BNx2rUSd]]></document>
+		<document><![CDATA[Image field default value has now alt and title attributes http://t.co/abKKM8OvA4]]></document>
+		<document><![CDATA[Change notice: Migrate in core: patch #1 http://t.co/qpBXDGkdJs]]></document>
+		<document><![CDATA[New configuration translation user interface module added http://t.co/omjCLXBwZH]]></document>
+		<document><![CDATA[theme_links() supports linking by route name http://t.co/jir4Hph4uB]]></document>
+		<document><![CDATA[FIELD_CARDINALITY_UNLIMITED constant moved to FieldDefinitionInterface http://t.co/25AOGd8KLe]]></document>
+		<document><![CDATA[Entity menu_* annotation keys removed in favor of links annotations http://t.co/uekYVcjYHy]]></document>
+		<document><![CDATA[Introduced hooks to alter formatter settings element in Field UI http://t.co/oAbaubsfbk]]></document>
+	</documents>
+</author>

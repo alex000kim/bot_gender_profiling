@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[_update_fetch_data() and function _update_refresh() have been removed http://t.co/gElGWejIBS]]></document>
+		<document><![CDATA[t() and String::format() input and output are better integrated with Twig autoescaping http://t.co/ojnRjFbwLy]]></document>
+		<document><![CDATA[ThirdPartySettingsTrait is removed and merged into ConfigEntityBase http://t.co/BZFAgwdkLA]]></document>
+		<document><![CDATA[Config objects now have cache tags http://t.co/cStJDTSia6]]></document>
+		<document><![CDATA[Url::__toString() was removed http://t.co/vIgaKNO5tC]]></document>
+		<document><![CDATA[Configurable link field, short cut, menu links store user entered paths as URI (not routes or paths)  http://t.co/PaWipjU1Iv]]></document>
+		<document><![CDATA[Menu Item CSS class changes and removal of .leaf http://t.co/0D5PgM8GYU]]></document>
+		<document><![CDATA[theme_aggregator_block_item() replaced with #type link http://t.co/IMAKwfiMdk]]></document>
+		<document><![CDATA[CommentManagerInterface::addDefaultField() deprecated in favour of CommentTestTrait http://t.co/Yiy9Yy5JPb]]></document>
+		<document><![CDATA[Responsive images http://t.co/TRlJBd8wWy]]></document>
+		<document><![CDATA[Access session data through the Request object http://t.co/Cs3pPmtPsk]]></document>
+		<document><![CDATA[Views fields' delta_limit value 'all' now represented as 0 (zero) http://t.co/Vgu21B5GIm]]></document>
+		<document><![CDATA[hook_node_validate() and hook_node_submit() have been removed http://t.co/7jF2A6PjnC]]></document>
+		<document><![CDATA[Views language rendering options now unified http://t.co/BjiKiRltz9]]></document>
+		<document><![CDATA[Views display options field_langcode and field_langcode_add_to_query removed in favor of unified rendering_languag… http://t.co/HqBChQ9YPC]]></document>
+		<document><![CDATA[Session settings and $cookie_domain global moved to container parameters http://t.co/1WA32jwmjC]]></document>
+		<document><![CDATA[FieldItems do not auto-create new objects on reading of $entity-&gt;field[N] anymore http://t.co/4F9zK0nKp8]]></document>
+		<document><![CDATA[New 'entity_autocomplete' form element added http://t.co/RVsmmwt6E9]]></document>
+		<document><![CDATA[Base field descriptions are not saved into database schemata anymore http://t.co/oLAV2ebHMg]]></document>
+		<document><![CDATA[MimeTypeGuessers replaced file_get_mimetype() functionality http://t.co/Me1YIIpanS]]></document>
+		<document><![CDATA[Require a specific placeholder format in db_query() in order to trigger argument expansion, and require explicit '… http://t.co/XdNrdg2MoA]]></document>
+		<document><![CDATA[Footer regions in Bartik have been renamed http://t.co/Et4ryk6DI8]]></document>
+		<document><![CDATA[File system functions are now methods on the 'file_system' service http://t.co/EuwSCFnzId]]></document>
+		<document><![CDATA[Breadcrumb have been converted into block http://t.co/auW9WWANrT]]></document>
+		<document><![CDATA[Site specific services.yml is no longer a default http://t.co/m6NqFwfb6I]]></document>
+		<document><![CDATA[Removed age() method and introduced currentRevision() and allRevisions() methods http://t.co/IQKbuWk2cO]]></document>
+		<document><![CDATA[drupal_get_schema() / drupal_get_complete_schema() got removed http://t.co/N2OJuPNPdX]]></document>
+		<document><![CDATA[user_attach_accounts() and comment_prepare_author() have been removed http://t.co/Xx4hBGvPWq]]></document>
+		<document><![CDATA[Flood control must be applied upon submit, not when viewing http://t.co/MQ9THajWcq]]></document>
+		<document><![CDATA[CSS changes to the system status report component http://t.co/yxTuVv9d6Q]]></document>
+		<document><![CDATA[Entity level validation constraints can be added http://t.co/tyFwxfCuoD]]></document>
+		<document><![CDATA[MySQL PDO no longer allows multiple database queries to be executed at the same time http://t.co/vlauOEHE12]]></document>
+		<document><![CDATA[Two methods added to the UserInterface  http://t.co/YsE0bvQ2wt]]></document>
+		<document><![CDATA[REST user updates have to include the existing password in some cases http://t.co/oR9xscTjve]]></document>
+		<document><![CDATA[Added 'no_cache' route option to mark a route's responses as uncacheable http://t.co/RhwQf3n1lI]]></document>
+		<document><![CDATA[Added RendererInterface::addDependency($render_array, $cacheable_dependency) http://t.co/ywHnqJ2ffq]]></document>
+		<document><![CDATA[Added attach_library() function to Twig http://t.co/Tbd0V20AW2]]></document>
+		<document><![CDATA[Entity validation constraints receive $entity as data http://t.co/qmU1YagYbz]]></document>
+		<document><![CDATA[New config_object base type added, use for simple configuration http://t.co/x1nA4GSXyI]]></document>
+		<document><![CDATA[Added new Form API functionality to prevent arrays from being submitted to text-like fields http://t.co/CCXmg7wZcx]]></document>
+		<document><![CDATA[Added methods to avoid loading jQuery and related JavaScript libraries on all pages when they are not needed http://t.co/IpsCZamqU8]]></document>
+		<document><![CDATA[Added a user_has_role() API function to check if a user has a certain role http://t.co/JtqHN4cYPP]]></document>
+		<document><![CDATA[ALT text is now required by default on image fields http://t.co/BrOBhaGIGD]]></document>
+		<document><![CDATA[The Taxonomy term reference field has been removed in favor of Entity reference http://t.co/70DOhlt2Ku]]></document>
+		<document><![CDATA[Default configuration is now translated in-place http://t.co/Txcefo4hzK]]></document>
+		<document><![CDATA[The locale.config.typed service is renamed to locale.config_manager, most public methods changed http://t.co/RsKhI6VsWp]]></document>
+		<document><![CDATA[Made possible to get the source data out of TranslationWrappers http://t.co/2DApcVRSPh]]></document>
+		<document><![CDATA[Removed LocaleTypedConfig http://t.co/y71dq8opjA]]></document>
+		<document><![CDATA[locale_translate_english() is now locale_is_translatable($langcode) http://t.co/vP8q1NWRWr]]></document>
+		<document><![CDATA[Made it possible to use KernelTestBase to test foreign language environments http://t.co/Y0hFgL1RXe]]></document>
+		<document><![CDATA[hook_install() has to rebuild the routes manually, if needed http://t.co/lZapJ2AXMr]]></document>
+		<document><![CDATA[New 'user.permissions' cache context, should be used instead of 'user.roles' cache context http://t.co/a23ROvw1eM]]></document>
+		<document><![CDATA[The site default language code is now separate from the site name's and slogan's language http://t.co/82veIoHC47]]></document>
+		<document><![CDATA[User signatures support moved to contrib http://t.co/qpDsOEiT0w]]></document>
+		<document><![CDATA[Cache contexts are now hierarchical http://t.co/dMtMr7PPmE]]></document>
+		<document><![CDATA[Views plugin classes renamed to support PHP 7 http://t.co/EGs7DLeaXp]]></document>
+		<document><![CDATA[TypedData class name changes http://t.co/rIgJ1KNhRz]]></document>
+		<document><![CDATA[jQuery Update upgrade to 2.x http://t.co/ks0UOKbbA2]]></document>
+		<document><![CDATA[Drupal\Component\Utlity\String got split up /moved around http://t.co/q3QPZLIKrX]]></document>
+		<document><![CDATA[Optional configuration provided by modules and themes is now stored in config/optional http://t.co/RXMNaMbbDL]]></document>
+		<document><![CDATA[Install profiles are installed after their themes http://t.co/vz2jOxRcpA]]></document>
+		<document><![CDATA[Bundle entity form ID pattern has changed http://t.co/Is3sObIyyo]]></document>
+		<document><![CDATA[External URLs can no longer be passed through the "destination" query parameter http://t.co/iSg6LyBgk7]]></document>
+		<document><![CDATA[The user_pass_rehash() function now requires the user account ID to be passed in http://t.co/adS6eF38K5]]></document>
+		<document><![CDATA[Added #cache['max-age'] http://t.co/S6npcQtbGp]]></document>
+		<document><![CDATA[Route rebuilding moved to an explicit model http://t.co/dxe6wbUKoK]]></document>
+		<document><![CDATA[Base fields are being converted to behave the same as configurable fields in Views http://t.co/GgAKf0q0CG]]></document>
+		<document><![CDATA[Messages have been converted into a block http://t.co/6fKVQNO2Wp]]></document>
+		<document><![CDATA[#type =&gt; status_messages instead of #theme =&gt; status_messages http://t.co/CY3vIwE6DD]]></document>
+		<document><![CDATA[Front controllers in core subdirectory have been moved to root http://t.co/FIfadt1owl]]></document>
+		<document><![CDATA[#type =&gt; pager instead of #theme =&gt; pager http://t.co/rDiqQtcXO7]]></document>
+		<document><![CDATA[The langcode field is now translatable http://t.co/lOqHO1nYkY]]></document>
+		<document><![CDATA[Shortcut CSS class changes http://t.co/hNaL3aiiVj]]></document>
+		<document><![CDATA[hook_toolbar() now needs cacheability metadata to indicate conditionality http://t.co/imuj8jZcl3]]></document>
+		<document><![CDATA[Added active_theme twig function http://t.co/KdjyduPHki]]></document>
+		<document><![CDATA[Menu link tree handling changes to allow menu trees to be render cached http://t.co/I1HsMIp76R]]></document>
+		<document><![CDATA['Messages' region renamed to 'Highlighted' for all themes http://t.co/AzjrbSEvQ7]]></document>
+		<document><![CDATA[Simplify and optimize Drupal.ajax() instantiation and implementation http://t.co/LkJNMHhNgW]]></document>
+		<document><![CDATA[Removed Timer Call From Core Boot() http://t.co/ZAgtqhpMJn]]></document>
+		<document><![CDATA[EntityChangedInterface::getChangedTime() returns timestamp for current translation, EntityChangedInterface::getCha… http://t.co/QRCXijhdxc]]></document>
+		<document><![CDATA[Use Utility\SafeMarkup class instead of Utility\String for placeholder(), checkPlain(),format() functions http://t.co/y4DQXyYt0I]]></document>
+		<document><![CDATA['list_boolean' field type renamed 'boolean', only stores 0 and 1 http://t.co/ck9oUHw6nB]]></document>
+		<document><![CDATA[FormInterface::validateForm() and FormInterface::submitForm() are always called http://t.co/Gwmw0KaPS0]]></document>
+		<document><![CDATA[Project namespace for dependencies http://t.co/zMVM4fpKZe]]></document>
+		<document><![CDATA[Tables can now output http://t.co/nK0zCazmqE]]></document>
+		<document><![CDATA[Replaced theme_more_link() with #type 'more_link' http://t.co/FzhyPfPuNG]]></document>
+		<document><![CDATA[Change active class in l() function to is-active http://t.co/in5XDwwlfc]]></document>
+		<document><![CDATA[Added elements to the html head got replaced with objects on the html page http://t.co/rodCGWDdTa]]></document>
+		<document><![CDATA[Prepopulated anonymous form fields information is retrieved from the visitor browser http://t.co/ss58IW3OeV]]></document>
+		<document><![CDATA[Test specific overrides in settings.php http://t.co/C3PdUXarS2]]></document>
+		<document><![CDATA[Nodes now have a storage controller; node_revision_list() removed. http://t.co/WVzmgz7G0u]]></document>
+		<document><![CDATA[global $databases removed in favor of existing static Database class methods http://t.co/FLfTk2fgFd]]></document>
+		<document><![CDATA[Route access checker default mode is changed from ANY to ALL http://t.co/G8dwnporCv]]></document>
+		<document><![CDATA[Added CompositeConstraintBase for validating multiple fields http://t.co/vjQyBWxaue]]></document>
+		<document><![CDATA[Rest type and relation links now support configurable domain http://t.co/wXeN2WjK2M]]></document>
+		<document><![CDATA[Entity storage handlers are now required to implement ::hasData()  http://t.co/zknhb71HjT]]></document>
+		<document><![CDATA[Renamed indentation css class to js-indentation http://t.co/47UZwmUYRs]]></document>
+		<document><![CDATA[Search removes diacritics in indexing rather than relying on database collation http://t.co/JhmWn8XRky]]></document>
+		<document><![CDATA[New Transliteration method added http://t.co/y9ClkRjiZH]]></document>
+		<document><![CDATA[hook_library_info_build() added: for registering libraries dynamically http://t.co/FsrrlBXnn3]]></document>
+	</documents>
+</author>

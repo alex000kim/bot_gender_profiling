@@ -1,0 +1,155 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[@RubyReckless @0rangelic Quite right too! Die Hard 2 on the second? ;-)]]></document>
+		<document><![CDATA[@0rangelic  https://t.co/1XpXlZGSQF]]></document>
+		<document><![CDATA[@0rangelic  https://t.co/MDLlRHMgch]]></document>
+		<document><![CDATA[Okay, @0rangelic, try this! https://t.co/aXoNAE8p87]]></document>
+		<document><![CDATA[@0rangelic  https://t.co/16RnwszSRF]]></document>
+		<document><![CDATA[I wonder if this will convince @0rangelic it's a Christmas movie... https://t.co/k09WBD384K]]></document>
+		<document><![CDATA[Son, stop fucking swearing in public. https://t.co/406rcH0iLs]]></document>
+		<document><![CDATA[Right, I think I’ve finally got to grips with installing python2.something, pip, Django, global vs user and the differences on GNU/Linux vs macOS.
+
+And my zsh config got some significant tweaks along the way to cope.]]></document>
+		<document><![CDATA[Tick, tick, tick, tick... https://t.co/uzVSTwv7dy]]></document>
+		<document><![CDATA[@0rangelic I’m all kinds of clever with time maths! ;)]]></document>
+		<document><![CDATA[All this typing of `pip` is giving me PDP-11 and CP/M flashbacks. https://t.co/6dpkrbddGX]]></document>
+		<document><![CDATA[And *now* I discover `easy_install pip` — sure, it’s not like it wasn’t documented somewhere; shame it wasn’t documented via the tutorial I was following though (which did suggest other routes to installing pip).
+
+*fires up an org-mode file to make lots of notes*]]></document>
+		<document><![CDATA[Now we’re getting somewhere! https://t.co/ReSSMkHKMI]]></document>
+		<document><![CDATA[Seems to be a python version issue. Latest Django assumes python3, by the looks of things.
+
+Oh I do love parallel language version issues. :D]]></document>
+		<document><![CDATA[Oh deep joy. :D https://t.co/eOFTZ8DRG7]]></document>
+		<document><![CDATA[I’m sure it’s easy enough to fix (now hard is a sh script in /usr/local/bin, or a symlink, or whatever it takes), but dammit I hate it when step 1 of something needs spit and sticky tape to fix it.]]></document>
+		<document><![CDATA[Taking a look at Django. Kind of a frustrating start. “First, install pip”. So I do. “Now you can run pip”. Yeah, about that…
+
+zsh: command not found: pip
+
+OTOH `python -m pip` works fine. Got to love tutorials that don’t quite work.]]></document>
+		<document><![CDATA[Also, I felt this might come in very handy soon. 🤓 https://t.co/ZvEEEmxoef]]></document>
+		<document><![CDATA[This absolutely had to come home with me this morning. https://t.co/ZAxAheWzSD]]></document>
+		<document><![CDATA[@srbaker I’ve not installed Emacs on Windows for a while, but that issue has generally been a case of https://t.co/vbf0A2J7QP — I’d head down that route first.]]></document>
+		<document><![CDATA[Expecting to find out that the other 15 are also @CostaCoffee - okay, one of them might be home. https://t.co/56ZziSfPho]]></document>
+		<document><![CDATA[RT @VolcanicArts: New Video! Minecraft Survival | Episode 46 | Semi-Automatic Tree Farm! https://t.co/tROJuqajp0]]></document>
+		<document><![CDATA[RT @Tim_Kimber: Never understood why some people don't accept Die Hard is a Xmas film.
+
+LET ME COUNT THE WAYS [thread] https://t.co/v9JuUNF…]]></document>
+		<document><![CDATA[Something tells me this isn't going to end well... https://t.co/kaYnu0XXEX]]></document>
+		<document><![CDATA[Perhaps I’m missing a trick here, but it seems that the `use-package’ :functions keyword has stopped working, for me anyway. :commands works, but :functions seems not to.]]></document>
+		<document><![CDATA[Solved it. Sort of. Still not sure *why* this is required right now: https://t.co/B9ViV8KzDx]]></document>
+		<document><![CDATA[Well this is new. Getting something very odd with the new `use-package` now. https://t.co/sInNfgeTfe]]></document>
+		<document><![CDATA[It is happening again. Again. Again. https://t.co/A9YoBiRCUN]]></document>
+		<document><![CDATA[Discovered in a long-forgotten backwater of some directory on a machine… (and I had to run it in a DOS emulator on my iMac, ‘cos my Windows machine couldn’t handle it). https://t.co/KqzyGMdUnv]]></document>
+		<document><![CDATA[@seanjmoran I hope so! Reading some other background material the other day, I realised how little I knew of the subject.
+
+Once done I might have to go back and re-read all that Dawkins I read 20 years ago. Might make even more sense. ;)]]></document>
+		<document><![CDATA[Tidying out some old experimental code. Running VBScript (and JScript) from a Delphi app.
+
+This experiment did end up turning into some deployed code (and supported all sorts of scripting languages in the end). https://t.co/YqmJBQAC7U]]></document>
+		<document><![CDATA[Looks like the use-package change has flowed through the melpa build process. I think I might dare to go back onto the latest use-package again.
+
+*opens ~/.emacs.d/*]]></document>
+		<document><![CDATA[@seanjmoran He did, got it yesterday evening. It looks very useful, especially on the biology side of things (and a little scary there too, in a good way, given it’s something I have almost zero knowledge of).
+
+Really looking forward to working through it all. Deeply appreciate it.]]></document>
+		<document><![CDATA[RT @katebevan: Not sure the cat is terribly impressed with this year's decorations on @DaphneFlap https://t.co/rC8RUELKDl]]></document>
+		<document><![CDATA[Apropos of nothing ;)
+
+https://t.co/cNHPuWcaib]]></document>
+		<document><![CDATA[Honestly, I’m really looking forward to the move, to the new challenge, should have done the “leave” thing. But it’s choice-avoiding language like that that really irks me.]]></document>
+		<document><![CDATA[Soon-to-be-ex-employer: You know all that stuff you did to hand over development tools/knowledge last week? Can you do it all again because…. reasons.
+
+Also a bit annoyed by “After you leave”. “Leave”. I dunno, “leave” implies something other than “made redundant”.]]></document>
+		<document><![CDATA[RT @Baddiel: It's unexpected chats like this that make me glad, despite everything, that Twitter exists. https://t.co/UEBldvPEnP]]></document>
+		<document><![CDATA[Down into single figures! ;)
+
+(Yes, yes, I might written a redundancy notice period countdown app to test a thing in React) https://t.co/Wb2OrEASMY]]></document>
+		<document><![CDATA[In other news, I’m really enjoying https://t.co/PD4GN9JrjN — experimenting with JavaScript is now as easy as experimenting with Lisp.]]></document>
+		<document><![CDATA[Right, sorted that for now by loading use-package from melpa-stable rather than melpa.]]></document>
+		<document><![CDATA[Looks like it’s this: https://t.co/L5M9FFmTvs]]></document>
+		<document><![CDATA[Hmm. Just did a package upgrade in GNU Emacs and now this. Given `use-package` drives everything about my config, this is a slight concern.
+
+Something to do with `up-core`, I think. Whatever that is. https://t.co/1V5ihe7DKc]]></document>
+		<document><![CDATA[Well this just got interesting. Using https://t.co/5CQIHkOkvV I can have GNU Emacs, in the Linux subsystem, run in X/graphical mode on my Windows desktop.
+
+Which is really nice. https://t.co/NpxXdoYYqD]]></document>
+		<document><![CDATA[Spent a bit of time this morning tweaking the Linux subsystem thingy on my Win10 laptop. Now all zsh and latest Emacs and stuff. Which is nice. https://t.co/wwh9IJDM8C]]></document>
+		<document><![CDATA[RT @SarcasticRover: My planet isn’t a f—king parking lot for your bullshit stunts, Elon. 
+
+Next time send science. https://t.co/s9is3iLw8o]]></document>
+		<document><![CDATA[@astroengine Ten year old child's hand for scale... https://t.co/oiN1VIHtO5]]></document>
+		<document><![CDATA[Role model, I mean. Fucking autocorrect.]]></document>
+		<document><![CDATA[Please be a joke. Please be a joke. Please be a joke.
+
+It's not is it? It's not a joke. He's really going to litter Mars orbit with a sodding car for bro-level LOLs. Well shit. We're down one good billionaire roll model. https://t.co/GtUiQP5Onb]]></document>
+		<document><![CDATA[@astroengine https://t.co/2kpihcjgVv]]></document>
+		<document><![CDATA[@astroengine Just caught up with this. Holy crap. Could the message this sends out be any more wrong? 🤔]]></document>
+		<document><![CDATA[@astroengine Ones I have are giant. About 4 times bigger than normal. My favourite discovery of late. 😀]]></document>
+		<document><![CDATA[@astroengine Likely going to have crumpets for breakfast. Solidarity from Scotland.]]></document>
+		<document><![CDATA[RT @BarristerSecret: It’s worth repeating that exactly zero sexual harassment would occur in the workplace if men like this were tied up wi…]]></document>
+		<document><![CDATA[Strange experience: after almost a 1/4 of a century of using GNU/Linux I'm now in a position of needing to ask a third party to install stuff. Quite rightly so; I'm no sysadmin and I really don't want to fubar the couple of boxen where this is the case.
+
+Still an odd feeling.]]></document>
+		<document><![CDATA[Rule 34 in action.... https://t.co/Fc1cm4IKmD]]></document>
+		<document><![CDATA[I feel I need to get her the full set, obviously. https://t.co/gmgbyEfJZj]]></document>
+		<document><![CDATA[I bought @0rangelic a little gift... https://t.co/2cq3U1JMJV]]></document>
+		<document><![CDATA[RT @CodeWisdom: "The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write make…]]></document>
+		<document><![CDATA[Me before and after a meeting today... https://t.co/so1nf8I4xN https://t.co/1iUQ1qjZ8D]]></document>
+		<document><![CDATA[@Lethrir Well, a probation period works both ways, right? https://t.co/rAIGgkm3VM]]></document>
+		<document><![CDATA[That said... Got my workstation set up with Serenity as the wallpaper this morning. Two people asked me "What's that?"
+
+Is it sensible to work in a workplace where people don't Firefly? https://t.co/16lGp9Q0uN]]></document>
+		<document><![CDATA[Also, I know an infinite more about genome browsers than I did this morning. Mind's still boggling a little.]]></document>
+		<document><![CDATA[Survived my first full proper day at the new job. Exciting. Daunting. Surprising. Other positive words that end in ing.
+
+Apart from Ubuntu being a minor pain. But I'll get to the bottom of it.]]></document>
+		<document><![CDATA[On the other hand, my Emacs config installed and worked first time. Which was nice.]]></document>
+		<document><![CDATA[Survived my first day on the new job. Two things stand out:
+
+1) Passwords need to die. The world needs something far better than passwords.
+
+2) I really don't like Outlook.
+
+(Actually, the real stand out is it was a great first day, but still...)]]></document>
+		<document><![CDATA[Here I go... https://t.co/nJO2CQ7WPP]]></document>
+		<document><![CDATA[RT @VolcanicArts: New Video! New Year, New Channel https://t.co/jFU9Ix6ZM4]]></document>
+		<document><![CDATA[Finally home again!]]></document>
+		<document><![CDATA[@VolcanicArts Well, it does stop, but it's a direct train rather than me needing to change at York.]]></document>
+		<document><![CDATA[@VolcanicArts Exactly.]]></document>
+		<document><![CDATA[@thetrainline Am I perhaps missing some other tweet?]]></document>
+		<document><![CDATA[Thanks to the wonders of late-running trains, it looks like I'll be back in Edinburgh earlier than expected. https://t.co/hijpBk2dWK]]></document>
+		<document><![CDATA[Still ongoing, it seems. Looks like my journey back will be interesting @0rangelic https://t.co/LK3LcQU2ih]]></document>
+		<document><![CDATA[Killing time on the train by getting more background info in anticipation of the rest of this week, and beyond. https://t.co/RDY6oIz2Ay]]></document>
+		<document><![CDATA[@VolcanicArts There is that.]]></document>
+		<document><![CDATA[Looks like @thetrainline did a fantastic job of booking an adult and child combo of seats such that they're in different parts of the coach. https://t.co/PiqUTjQcJC]]></document>
+		<document><![CDATA[Back on a train for the first time in a while. Heading down to England with @VolcanicArts]]></document>
+		<document><![CDATA[Just discovered (thanks to @VolcanicArts) https://t.co/6Wl1Sjnikn - bought a copy on PC (£0.49 in the Steam Sale) and it's one of the most brilliant and annoying games I've ever played.
+
+Has Android and iOS versions too. I might need them. :/]]></document>
+		<document><![CDATA[I'm actually looking forward to going back to work (although it's not until Thursday for me). But, seriously, this! (@VolcanicArts and I will be on a train through this shit) https://t.co/bgeKMmd8px]]></document>
+		<document><![CDATA[Crossing #photoblog https://t.co/u88tsPOj2J]]></document>
+		<document><![CDATA[Lights #photoblog https://t.co/pYrqXY11Fa]]></document>
+		<document><![CDATA[Me, @VolcanicArts and a bridge. https://t.co/LrVWohAKkX]]></document>
+		<document><![CDATA[Little new year's day walk https://t.co/4jtbtEmfDW]]></document>
+		<document><![CDATA[@0rangelic Where does the vodka fit in?]]></document>
+		<document><![CDATA[@0rangelic Wine next?]]></document>
+		<document><![CDATA[Edinburgh kicked off. Happy new year. https://t.co/GlaJeHSqZr]]></document>
+		<document><![CDATA[Waiting for Edinburgh to kick off.. https://t.co/JSWjYPiwoG]]></document>
+		<document><![CDATA[@0rangelic The alternative was "it makes me itch".]]></document>
+		<document><![CDATA[@0rangelic "This meat is rich"?]]></document>
+		<document><![CDATA[@0rangelic You mean that wasn't the traditional approach?]]></document>
+		<document><![CDATA[@planet_leesti @0rangelic I'm not so foolish as to tell her no. ;-)]]></document>
+		<document><![CDATA[@0rangelic HELLO THAT'S WHAT I'M DOING RIGHT NOW! https://t.co/UNXGVWMQkK]]></document>
+		<document><![CDATA[@0rangelic They don't sound like things that need much of my involvement.]]></document>
+		<document><![CDATA[Wait... What? When were you going to tell me? https://t.co/wNq2PzI5TN]]></document>
+		<document><![CDATA[She naps #photoblog https://t.co/acxt79xi9r]]></document>
+		<document><![CDATA[This aged well...
+
+https://t.co/7FO4yAus3B]]></document>
+		<document><![CDATA[RT @ArgusICraig: How to spot someone who's never had to take an anti-depressant: they call them 'happy pills'.
+I've taken one every single…]]></document>
+		<document><![CDATA[@0rangelic I've read worse excuses.]]></document>
+		<document><![CDATA[About to do The Last Jedi for a third time. This time with @VolcanicArts https://t.co/fQL8fE82C8]]></document>
+	</documents>
+</author>

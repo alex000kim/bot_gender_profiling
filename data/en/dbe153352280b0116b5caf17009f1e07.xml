@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[setUp() methods in test base classes splitted into multiple methods http://t.co/TlCpCVK9]]></document>
+		<document><![CDATA[Removed has_js cookie http://t.co/61xFotwp]]></document>
+		<document><![CDATA[Usage of $term-&gt;name replaced by $term-&gt;label() http://t.co/ybS0cMTQ]]></document>
+		<document><![CDATA[Core search now supports entity language variance http://t.co/RDEyuk11]]></document>
+		<document><![CDATA[Entity forms are now managed by form controllers http://t.co/vZcjyFaF]]></document>
+		<document><![CDATA[Form API now allows for object methods as callbacks http://t.co/LDESYAGB]]></document>
+		<document><![CDATA[Attributes and classes arrays have been combined togeather into Attribute object http://t.co/noby1vl0]]></document>
+		<document><![CDATA[entity_extract_ids() replaced with EntityInterface::id(), EntityInterface::bundle() and EntityInterface::getRevision... http://t.co/dkBIjarK]]></document>
+		<document><![CDATA[Core install profiles moved into /core/profiles; custom profiles supported in /sites/all/profiles and /profiles http://t.co/LpjczvNd]]></document>
+		<document><![CDATA[Added multilingual support to the standard entity schema http://t.co/P9etOgnA]]></document>
+		<document><![CDATA[IE8 is not fully supported http://t.co/iteYK71f]]></document>
+		<document><![CDATA[update_variable_set(), update_variable_get() and update_variable_del() functions added http://t.co/qrjDlNue]]></document>
+		<document><![CDATA[UUID support added for all core entities http://t.co/CFpwO9lq]]></document>
+		<document><![CDATA[Removed entity_create_stub_entity() and concept of stub entities http://t.co/KmkhSXXq]]></document>
+		<document><![CDATA[Replace usage of WebTestBase::setUp() for enabling modules with the static class property $modules http://t.co/HEJTQTen]]></document>
+		<document><![CDATA[Buying the best length Baby apparel http://t.co/TinmZlhT]]></document>
+		<document><![CDATA[pandora espresso beans would undoubtedly bring shopping a level of popularity for skin http://t.co/SYy3F0di]]></document>
+		<document><![CDATA[Hooks exposing plugins have been replaced with true plugins http://t.co/tQWIfY5M]]></document>
+		<document><![CDATA[Gettext PO handling refactored, OOP-ified and PSR-0-compliant http://t.co/2KAvcGBR]]></document>
+		<document><![CDATA[Sun Storms and Cosmic Radiation http://t.co/LlASossA]]></document>
+		<document><![CDATA[Dashboard module has been removed from core http://t.co/r819jcYM]]></document>
+		<document><![CDATA[Usage of $node-&gt;title replaced by $node-&gt;label() http://t.co/3hZKuaip]]></document>
+		<document><![CDATA[The parameters for module_list() have changed http://t.co/CuyeAWFF]]></document>
+		<document><![CDATA[List module renamed to choice module http://t.co/1ckuWohh]]></document>
+		<document><![CDATA[googlevideositemap http://t.co/npP61O3P]]></document>
+		<document><![CDATA[inside a seed so excellent that is related to associated with them http://t.co/woIRMhak]]></document>
+		<document><![CDATA[user_save() removed, use $account-&gt;save() http://t.co/TiDG3lNA]]></document>
+		<document><![CDATA[element_validate_integer() and element_validate_integer_positive() replace with number element type http://t.co/gBA9qTVW]]></document>
+		<document><![CDATA[Entity listing pages can be provided by a list controller http://t.co/CIhwUQUB]]></document>
+		<document><![CDATA[Actions functionality moved into new Action module http://t.co/ODhBfo3B]]></document>
+		<document><![CDATA[New field types added to core: E-mail and Link/URL http://t.co/Sdx3D9Xn]]></document>
+		<document><![CDATA[Responsive table classes for modules and themes http://t.co/IYAx0hzG]]></document>
+		<document><![CDATA[Field widgets as plugins http://t.co/tQ4R2Hw1]]></document>
+		<document><![CDATA[Widgets are now Plugins http://t.co/e8ebcdgD]]></document>
+		<document><![CDATA[Removed theme function(s) http://t.co/21e0YqMd]]></document>
+		<document><![CDATA[IP blocking functionality has been moved into a separate module http://t.co/mUVgUDYN]]></document>
+		<document><![CDATA[JavaScript settings moved from Drupal.settings to global drupalSettings variable http://t.co/USceZce6]]></document>
+		<document><![CDATA[Multi-site functionality is now opt-in http://t.co/rjFQ7mka]]></document>
+		<document><![CDATA[For Personal Questions to Ask A Girl to Get to Know Her http://t.co/kQ0n2bLb]]></document>
+		<document><![CDATA[Storage (API) for persistent non-configuration state http://t.co/UAQs2bkk]]></document>
+		<document><![CDATA[Added support for multilingual properties to EntityFieldQuery http://t.co/aSvU4066]]></document>
+		<document><![CDATA[Variables converted to CMI http://t.co/vOD9YkBV]]></document>
+		<document><![CDATA[drupal_mail(), hook_mail() and hook_mail_alter() now take langcode instead of language objects http://t.co/zERqdGw6]]></document>
+		<document><![CDATA[user_preferred_language() changes to user_preferred_langcode() http://t.co/IX03G3zP]]></document>
+		<document><![CDATA["Modules" navigation item renamed to "Extend" http://t.co/lumONv78]]></document>
+		<document><![CDATA[Add a log_percent value on profiles http://t.co/gVdJqDOn]]></document>
+		<document><![CDATA[User's can now have an administration specific language preference http://t.co/F0Da6z1d]]></document>
+		<document><![CDATA[Made translations permissions more granular (translate all and translate own) http://t.co/QhCZj5n7]]></document>
+		<document><![CDATA[When installing Drupal with a foreign language, English is not added anymore http://t.co/tPDQdLPg]]></document>
+		<document><![CDATA[Entity titles unified under $label name in templates http://t.co/YuroRdFU]]></document>
+		<document><![CDATA[token_replace(), hook_tokens(), hook_tokens_alter(), user_mail_tokens() now take langcode http://t.co/Yx6esNva]]></document>
+		<document><![CDATA[When creating new languages, always instantiate Language http://t.co/VqmYtYqU]]></document>
+		<document><![CDATA[Added ability to map external language codes to Drupal configured languages http://t.co/10NRd8u4]]></document>
+		<document><![CDATA[Managed File and File Usage API moved to file.module http://t.co/rluCxX8a]]></document>
+		<document><![CDATA[Extensions (modules/themes/profiles) can be placed into top-level directories instead of sites/all/* now http://t.co/2n0X9TLb]]></document>
+		<document><![CDATA[CACHE_PERMANENT constant moved to CacheBackendInterface http://t.co/jWUvrVWP]]></document>
+		<document><![CDATA[Use Composer to handle Drupal Core PHP dependencies http://t.co/HCLiSs5s]]></document>
+		<document><![CDATA[Generalize the use of hook_library_info() for core JavaScript http://t.co/ulayeEQk]]></document>
+		<document><![CDATA[shortcut_set_title_callback() has been removed, and shortcut_set_title() no longer sanitizes its output http://t.co/ytISdr2z]]></document>
+		<document><![CDATA[Added language variable to search preprocess hooks to support multi-language stemming http://t.co/3GYdIqfm]]></document>
+		<document><![CDATA[New language_select element in the Form API http://t.co/36rPRUkO]]></document>
+		<document><![CDATA[It is possible to write PHP files http://t.co/kMd5mQWl]]></document>
+		<document><![CDATA[cheap below wholesale tattoo design produce resources http://t.co/n6MmYSO4]]></document>
+		<document><![CDATA[Arguments for hook_file_download_access() and hook_file_download_access_alter() http://t.co/5dJkaqtC]]></document>
+		<document><![CDATA[Entity types are annotated plugins http://t.co/mRsswvew]]></document>
+		<document><![CDATA[EntityFieldQuery has been rewritten http://t.co/sWetqlvK]]></document>
+		<document><![CDATA[drupal_set_message() only prints each message once by default http://t.co/8otSqIDZ]]></document>
+		<document><![CDATA[Comment templates now provide an accessible link to the parent comment http://t.co/orPIteKW]]></document>
+		<document><![CDATA[Allow more Field API public API functions to act on a single field within an entity http://t.co/Mwi5bEUY]]></document>
+		<document><![CDATA[Polyfill for matchMedia added to Drupal 8 http://t.co/P8iI6vvJ]]></document>
+		<document><![CDATA[Die Leute gebetet http://t.co/WOPqYNe2]]></document>
+		<document><![CDATA[(Provisional) Method of defining router items has changed http://t.co/zjvlLdSt]]></document>
+		<document><![CDATA[Die Glencairn Whisky-Gläser sind angekommen http://t.co/KOZQvKw6]]></document>
+		<document><![CDATA[Die wichtigsten Regelungen für Mezzanine Floors http://t.co/Dp6Vvb2p]]></document>
+		<document><![CDATA[Ould - Karenina Schwierigkeiten http://t.co/2aScaluS]]></document>
+		<document><![CDATA[_form_set_class has been renamed to _form_set_attributes http://t.co/Ld6Lmy65]]></document>
+		<document><![CDATA[Image style $style array is now and ImageStyle object (extends ConfigEntity) http://t.co/5KBu5k4U]]></document>
+		<document><![CDATA[KLG refuse de vouloir un soutien-gorge par vous http://t.co/x0kMs1em]]></document>
+		<document><![CDATA[theme_pager functions now use theme suggestions (theme_pager_link__*) http://t.co/7zZoo8hu]]></document>
+		<document><![CDATA[Entities are now rendered by a render controller http://t.co/WjlBJWUZ]]></document>
+		<document><![CDATA[Content entity classes should implement ContentEntityInterface  http://t.co/t70XMPAR]]></document>
+		<document><![CDATA[Configuration entities (configurables) http://t.co/3BONQEZe]]></document>
+		<document><![CDATA[Support for saving and deleting revisions in the default storage controller and entity classes http://t.co/Vj6neotU]]></document>
+		<document><![CDATA[Filters should now define their filter type; check_markup() can optionally skip filters of a certain type http://t.co/4ilSY1Kt]]></document>
+		<document><![CDATA[Simplify JavaScript theme function declaration http://t.co/dp4MoCUi]]></document>
+		<document><![CDATA[Change notice: Language configuration form element http://t.co/mBIBOoW6]]></document>
+		<document><![CDATA[theme('item_list') supports custom list types for child elements http://t.co/mA79shMe]]></document>
+		<document><![CDATA[$form_state['clicked_button'] removed in favor of $form_state['triggering_element'] http://t.co/l1eAw3H5]]></document>
+		<document><![CDATA[Breakpoint added to Drupal 8 http://t.co/ELdP2DrG]]></document>
+		<document><![CDATA[The {system} table has been removed http://t.co/fHkAZHN3]]></document>
+		<document><![CDATA[Themes and modules can now define individual layouts http://t.co/2roIeJ5w]]></document>
+		<document><![CDATA[File usage is pluggable http://t.co/bLQM5f4y]]></document>
+		<document><![CDATA[Added hook_taxonomy_term_view() http://t.co/SnyFmgpv]]></document>
+		<document><![CDATA["Default language" negotiation option swapped for "Selected language", provides more flexibility http://t.co/QQpcOMpW]]></document>
+		<document><![CDATA[New Typed Data API. Entity properties and fields are being converted to use it. http://t.co/gGklR6O5]]></document>
+		<document><![CDATA[Template files are now located in a templates subdirectory http://t.co/VyHfvfLW]]></document>
+		<document><![CDATA[TempStore API added for persistent, expirable storage of non-cache data http://t.co/rEFeiqfA]]></document>
+		<document><![CDATA[Field formatters are now plugins http://t.co/60Fj6yI0]]></document>
+		<document><![CDATA[New dropbutton widget http://t.co/jTodoN51]]></document>
+		<document><![CDATA[Core ships with a .gitattributes file to improve git patches http://t.co/Ra5a2EJC]]></document>
+	</documents>
+</author>

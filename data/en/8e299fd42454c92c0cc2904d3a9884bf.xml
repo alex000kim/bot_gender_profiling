@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[form_options_flatten() is replaced by \Drupal\Core\Form\OptGroup::flattenOptions http://t.co/MQ74qRjOkh]]></document>
+		<document><![CDATA[menu got renamed to menu_ui http://t.co/7HrBRjWo5o]]></document>
+		<document><![CDATA[The signature of hook_entity_view implementations has changed; http://t.co/mKQF5Wb0IH]]></document>
+		<document><![CDATA[Entity renderable building is delayed through a #pre_render callback until after a cache check http://t.co/URSEwN5lxF]]></document>
+		<document><![CDATA[Tagged "handler" services can be consumed through a centralized compiler pass now http://t.co/6bPxrNzd2s]]></document>
+		<document><![CDATA[Delete buttons switched to links http://t.co/ptTn8deqza]]></document>
+		<document><![CDATA[element_info() moved to the element_info service. http://t.co/lyzEjEtlpo]]></document>
+		<document><![CDATA[PHP class autoloading changed to PSR-4 instead of PSR-0 http://t.co/zAdVB90j6O]]></document>
+		<document><![CDATA[SearchQuery extender updated http://t.co/AP2vk0IU64]]></document>
+		<document><![CDATA[Search UI changes http://t.co/sMbYyhaAl4]]></document>
+		<document><![CDATA[Additional methods added to \Drupal\Core\Entity\EntityStorageBase to improve DX of subclasses http://t.co/9rVJiQuVaO]]></document>
+		<document><![CDATA[Themes have an installation status http://t.co/IcjxE51LFt]]></document>
+		<document><![CDATA[New centralized set of default serialization classes http://t.co/LwR3ZoMBj3]]></document>
+		<document><![CDATA[Image operations are plugins http://t.co/7GUgOhOECd]]></document>
+		<document><![CDATA[Documentation for entity hooks has been consolidated http://t.co/HsD9iribtH]]></document>
+		<document><![CDATA[YAML files for contextual links, local tasks, and local actions have been renamed http://t.co/BIDku3Przl]]></document>
+		<document><![CDATA[Drupal 8 does not support browsers that do not support SVG http://t.co/NEBWXJaR3o]]></document>
+		<document><![CDATA[Comment subject field is configurable via widget http://t.co/dAAsw4xILl]]></document>
+		<document><![CDATA[New String utility component http://t.co/IVe7rw4AWS]]></document>
+		<document><![CDATA[New PathMatcher service http://t.co/bFvb2RFN2b]]></document>
+		<document><![CDATA[Limited PHP file execution in .htaccess (Apache webserver) http://t.co/HH3n5yYfba]]></document>
+		<document><![CDATA[Test class getInfo() method removed in favor of PHPDoc http://t.co/MSus2HfdSH]]></document>
+		<document><![CDATA[Comment properties are made multilingual http://t.co/jZpiP0vQ2a]]></document>
+		<document><![CDATA[Migrations now use / as property separator instead of dots http://t.co/Y3GktMiO9U]]></document>
+		<document><![CDATA[comment_get_display_page() and comment_get_display_ordinal() deprecated in favour of methods on CommentStorage http://t.co/WokCpXLyHF]]></document>
+		<document><![CDATA[Comment mode constants have moved http://t.co/jd1emZdzmh]]></document>
+		<document><![CDATA[hook_comment_publish() and hook_comment_unpublish() have been removed http://t.co/nLU8zO65ZJ]]></document>
+		<document><![CDATA[drupal_is_cli() deprecated http://t.co/UfA40ddO70]]></document>
+		<document><![CDATA[field_form_set_state() / field_form_get_state() moved to WidgetBaseInterface http://t.co/1oB7TqhgqK]]></document>
+		<document><![CDATA[_field_sort_items_value_helper() renamed to _field_multiple_value_form_sort_helper() http://t.co/ROOjlkdmm5]]></document>
+		<document><![CDATA[Request parameters, route name, and route object should be accessed via RouteMatch http://t.co/0BjAH93WDf]]></document>
+		<document><![CDATA[Changed definition of plugin derivatives http://t.co/dVaP8pR6L9]]></document>
+		<document><![CDATA[Field widgets generate lighter default $form[$field_name] structures http://t.co/lERMsU6dyz]]></document>
+		<document><![CDATA[block_get_blocks_by_region() and block_list() are removed http://t.co/viFphS2BxS]]></document>
+		<document><![CDATA[FieldStorageDefinitionInterface and FieldDefintionInterface http://t.co/EaKlG4YG3E]]></document>
+		<document><![CDATA[Configuration entities require configuration schema for persistence by default http://t.co/DRjGErbeV7]]></document>
+		<document><![CDATA[Block visibility is controlled by condition plugins http://t.co/v2k9L1W20Z]]></document>
+		<document><![CDATA[Replaced "master/slave" terminology with "primary/replica" http://t.co/ilVL62igvm]]></document>
+		<document><![CDATA[Comment type config entity added http://t.co/U37AYRe6QV]]></document>
+		<document><![CDATA[Plugin caching now not language dependent by default, include language in cache key as needed http://t.co/IqHeMoN96x]]></document>
+		<document><![CDATA[node_type-&gt;has_title removed in favor of entity form displays http://t.co/9FUSZNwH2Q]]></document>
+		<document><![CDATA[Configuration entities require configuration schema for persistence by default http://t.co/J3Pd16164U]]></document>
+		<document><![CDATA[Block visibility is controlled by condition plugins http://t.co/Wbj1lgEk9C]]></document>
+		<document><![CDATA[Replaced "master/slave" terminology with "primary/replica" http://t.co/POXdFknLeY]]></document>
+		<document><![CDATA[Comment type config entity added http://t.co/ksa0cjm8JR]]></document>
+		<document><![CDATA[Plugin caching now not language dependent by default, include language in cache key as needed http://t.co/NqRE9BlFFG]]></document>
+		<document><![CDATA[node_type-&gt;has_title removed in favor of entity form displays http://t.co/h5xsmHTMRy]]></document>
+		<document><![CDATA[drupal_anonymous_user() has been replaced by the AnonymousUserSession class http://t.co/MRWs5nZapy]]></document>
+		<document><![CDATA[Entity "controllers" are renamed to handlers http://t.co/pfjW1BQOOI]]></document>
+		<document><![CDATA[Global theme variables got replaced by an ActiveTheme https://t.co/rxWoEg7wvd]]></document>
+		<document><![CDATA[Theme initialization was moved into its own service https://t.co/mRxJ6Ln4rU]]></document>
+		<document><![CDATA[Description of a form element can be moved below the input fields http://t.co/ynHoDfQq04]]></document>
+		<document><![CDATA[Entity controller admin-form annotation replaced by field_ui_base_route http://t.co/ZM0evwSTWP]]></document>
+		<document><![CDATA[Contact categories are now contact forms http://t.co/6X5JmspphT]]></document>
+		<document><![CDATA[Forms no longer support path-based redirects http://t.co/QxYFtFhsX1]]></document>
+		<document><![CDATA[Configuration schema wildcards can now be used to match plugin derivative identifiers as well http://t.co/U0sVFcZIMd]]></document>
+		<document><![CDATA[hook_views_data() for entities replaced with EntityViewsHandlerInterface http://t.co/6AhJhRjmFi]]></document>
+		<document><![CDATA[Base field storage for users has now multilingual support  http://t.co/2m3sTqD9eH]]></document>
+		<document><![CDATA[Base field storage for taxonomy terms has now multilingual support  http://t.co/0YDZcIxDyF]]></document>
+		<document><![CDATA[Moved drupal_mail to MailManager::mail http://t.co/zcmYrW8b6C]]></document>
+		<document><![CDATA[hook_element_info() is replaced by annotated classes http://t.co/9zbbsGo9ET]]></document>
+		<document><![CDATA[Node types cannot opt out of standard permissions http://t.co/PHRTJFBwQR]]></document>
+		<document><![CDATA[Introduce AssetCollectionOptimizerInterface::getAll() and ::deleteAll(), deprecating drupal_clear_(css|js)_cache()  http://t.co/S6Y4hVavbM]]></document>
+		<document><![CDATA[Classes on Attribute objects can be manipulated with new addClass() and removeClass() methods http://t.co/s88x9RE3s2]]></document>
+		<document><![CDATA[Drupal\Core\Datetime\Date has been renamed to DateFormatter http://t.co/ZFiW20yuAt]]></document>
+		<document><![CDATA[Renamed DrupalTestBase and UnitTestCase::randomName() to randomMachineName() http://t.co/dRLlHm3hKB]]></document>
+		<document><![CDATA[New inline_template render element for HTML code in PHP http://t.co/yW88gRxQ10]]></document>
+		<document><![CDATA[Token descriptions are now optional http://t.co/UAesFHLYqL]]></document>
+		<document><![CDATA[drupal_valid_path moved to PathValidator service http://t.co/02ZtnIErHy]]></document>
+		<document><![CDATA[Backend specific services  now have a standard way to override http://t.co/5KDfRKPYfm]]></document>
+		<document><![CDATA[$form_state is now a classed object http://t.co/QdlyTEEAtT]]></document>
+		<document><![CDATA[Menu links converted to plugins, including static, views, and content entity implementations http://t.co/bRU42cFH1E]]></document>
+		<document><![CDATA[drupal_check_memory_limit and parse_size, DRUPAL_KILOBYTE moved to components http://t.co/JMkuzmqyPm]]></document>
+		<document><![CDATA[hook_file_download_access() has been removed http://t.co/2wp7qjsT0I]]></document>
+		<document><![CDATA[Configuration entities may now alter their data format for storage http://t.co/PHVhq8Ant9]]></document>
+		<document><![CDATA[Field allowed value storage changed http://t.co/G6BNok4hAi]]></document>
+		<document><![CDATA[Dots are explicitly forbidden in configuration data keys now http://t.co/hkaM4LkFVe]]></document>
+		<document><![CDATA[Asset libraries should declare their license; implement JavaScript License Web Labels http://t.co/kVtlwA75ZV]]></document>
+		<document><![CDATA[hook_cron_queue_info() replaced by annotated classes http://t.co/nwP8NW2Gkr]]></document>
+		<document><![CDATA[Entity HTML route patterns standardized http://t.co/YxDb1TJh23]]></document>
+		<document><![CDATA[Flexible page cache policy http://t.co/PlyC4OEuBp]]></document>
+		<document><![CDATA[taxonomy_term_load_parents(), taxonomy_term_load_parents_all(), taxonomy_term_load_children(), taxonomy_get_tree... http://t.co/nqAmHMY9GJ]]></document>
+		<document><![CDATA["Text processing" option removed from Text field types, split into filtered and plain field types http://t.co/Pma2LSvqkd]]></document>
+		<document><![CDATA[drupal_write_record() and drupal_schema_fields_sql() removed in favor of merge queries and entity API http://t.co/Tfjv2W9NU0]]></document>
+		<document><![CDATA[All access-checking logic must now return AccessResultInterface objects, allows for cacheability metadata http://t.co/zuXYeu6IOk]]></document>
+		<document><![CDATA[Plugin factories check inheritance of plugins http://t.co/MiyotLALT7]]></document>
+		<document><![CDATA[CSS classes being moved from preprocess to Twig templates http://t.co/RCo7xBysv0]]></document>
+		<document><![CDATA[Exception handling is now modular http://t.co/L1VQ1dydhi]]></document>
+		<document><![CDATA[field_filter_xss functions replaced by AllowedTagsXssTrait http://t.co/MVEJodsELB]]></document>
+		<document><![CDATA[drupal_render_page() has been removed http://t.co/wmxpJDqqQB]]></document>
+		<document><![CDATA[State variable node.cron_last has been removed http://t.co/LWoFJwntb5]]></document>
+		<document><![CDATA[submit() is removed from EntityFormInterface, logic moved into submitForm() and save() http://t.co/4MTsTwFmZi]]></document>
+		<document><![CDATA[Use ConfigurableLanguage configuration entity instead of language_save() and language_delete() http://t.co/fWLV6u9DTw]]></document>
+		<document><![CDATA[hook_path_update() now receives the original alias http://t.co/jQwOYZafvQ]]></document>
+		<document><![CDATA[Removed deprecated 'class' key from #theme links and #theme menu_tree heading arrays http://t.co/eq2vv7i0Jw]]></document>
+		<document><![CDATA[Entity form and view modes moved from Entity module to Core http://t.co/kgyTxKsTA5]]></document>
+		<document><![CDATA[Node/comment links are implemented as extra fields and can be hidden http://t.co/WDSv61D63j]]></document>
+		<document><![CDATA[Namespace for PHPUnit tests of modules has changed http://t.co/4RyZmL9cE7]]></document>
+		<document><![CDATA[Changed ApcClassLoader support (and added support for other class loaders) http://t.co/vPCQtoVYS9]]></document>
+		<document><![CDATA[drupal_classloader() removed http://t.co/INbL5n66i2]]></document>
+	</documents>
+</author>

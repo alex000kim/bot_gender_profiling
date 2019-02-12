@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[file_transfer() removed in favor of BinaryFileResponse http://t.co/7T3iJSFIpS]]></document>
+		<document><![CDATA[Drupal.displace utility introduced to calculate viewport offset distances. Resolves positioning conflict between... http://t.co/SlI8JJ75eF]]></document>
+		<document><![CDATA[New FAPI property #pattern is introduced for native HTML5 pattern attribute http://t.co/JrJwtMsfZe]]></document>
+		<document><![CDATA[Updated to jQuery UI 1.10.2 http://t.co/AWlKR76pr9]]></document>
+		<document><![CDATA[New way to determine whether an entity type, bundle or field supports translation http://t.co/wBLhbQpHat]]></document>
+		<document><![CDATA[DRUPAL_ROOT definition not required when bootstrapping Drupal http://t.co/74tA2W76sU]]></document>
+		<document><![CDATA[confirm_form() deprecated in favor of \Drupal\Core\Form\ConfirmFormBase http://t.co/ELYp33LeJK]]></document>
+		<document><![CDATA[IP addresses banned using the ban module will still be able to access cached pages http://t.co/DBDfAZ8RDN]]></document>
+		<document><![CDATA[drupal_anonymous_user() returns an object of type User http://t.co/BWpBfxZBwK]]></document>
+		<document><![CDATA[Standard install profile: text formats changed &amp; CKEditor enabled http://t.co/LDVOXIU9ox]]></document>
+		<document><![CDATA[It seems that the module doesn't support an exposed filter as "Links" http://t.co/epPyh190wA]]></document>
+		<document><![CDATA[Form API Ajax now handled by D8 Ajax API http://t.co/awQmtQy9Hg]]></document>
+		<document><![CDATA[Core and component plugins are context-aware http://t.co/2dfH5CkQYD]]></document>
+		<document><![CDATA[Page "delivery" system removed http://t.co/OeSkqDdpG4]]></document>
+		<document><![CDATA[Added EntityStorageControllerInterface::loadUnchanged() to load unchanged entities http://t.co/3Nff6SXYFX]]></document>
+		<document><![CDATA[.info files are now .info.yml files http://t.co/rPpumt8sxi]]></document>
+		<document><![CDATA[Custom blocks are now content entities, in separate module http://t.co/pcLilv1k5J]]></document>
+		<document><![CDATA[Use FormInterface to group form building, validation, and submission http://t.co/dhcTvkn354]]></document>
+		<document><![CDATA[entity_get_info() deprecated. Use drupal_container()-&gt;get('plugin.manager.entity')-&gt;getDefinitions() http://t.co/7nHmGJpQjZ]]></document>
+		<document><![CDATA[New configuration override and context system http://t.co/zH2NL2QmVa]]></document>
+		<document><![CDATA[New entity field access control and hooks http://t.co/5hzG1O1Cp0]]></document>
+		<document><![CDATA[Allow config entities to be enabled http://t.co/qXsETJYEIj]]></document>
+		<document><![CDATA[Allow config entities to be enabled http://t.co/467EX3viP8]]></document>
+		<document><![CDATA[Twig configuration settings and debug output http://t.co/G4nvAzmi]]></document>
+		<document><![CDATA[Highly contextual help texts with Tour module http://t.co/vMJnFarv]]></document>
+		<document><![CDATA[You Can Now Disable The Password Security Indicator http://t.co/JG9tPgo2]]></document>
+		<document><![CDATA[One page overview settings added for content/field translation settings http://t.co/qnipFNXE83]]></document>
+		<document><![CDATA[theme_options_none() is replaced by hook_options_list_alter() http://t.co/tf5UlTFHTQ]]></document>
+		<document><![CDATA[Taxonomy admin path converted to follow core entity patterns http://t.co/KSu437grkT]]></document>
+		<document><![CDATA[Field UI form_id (and URL) changes http://t.co/AuIExHj6Jr]]></document>
+		<document><![CDATA[Cryptographic functions moved to a Crypt component http://t.co/l0igA9AqQf]]></document>
+		<document><![CDATA[Book administration has been moved to admin/structure http://t.co/Nc33fx7Lr1]]></document>
+		<document><![CDATA[$is_https global removed http://t.co/jkmafamSkY]]></document>
+		<document><![CDATA[Field UI integration for entity types are no longer per-bundle, only per-entity type http://t.co/gNpgBDGYvo]]></document>
+		<document><![CDATA[Route access control for entities can use _entity_access http://t.co/4XB088DDJR]]></document>
+		<document><![CDATA[Each entity type should provide a specific interface extending EntityInterface http://t.co/mrbmJTBVKi]]></document>
+		<document><![CDATA[Add new PHP constants for CSS weights and rename PHP constants for CSS aggregates http://t.co/5MhiDYxkpQ]]></document>
+		<document><![CDATA[Renamed file_type_get_all_types() to file_type_load_all() http://t.co/91bSdrzShM]]></document>
+		<document><![CDATA[Configuration translations are now created based on community translations http://t.co/Wfz56jNuOE]]></document>
+		<document><![CDATA[_text_sanitize() is renamed to text_sanitize() http://t.co/LWUZCox4YC]]></document>
+		<document><![CDATA[New RESTful web services module http://t.co/OJPOVABsnU]]></document>
+		<document><![CDATA[The token API is a service http://t.co/YRa2ne0k4Z]]></document>
+		<document><![CDATA[Use JSHint to validate JS patches, configuration provided http://t.co/7DbNcTWwIc]]></document>
+		<document><![CDATA[taxonomy_get_vocabularies removed http://t.co/nbodIHs0R9]]></document>
+		<document><![CDATA[Added support for testing the non-interactive installer http://t.co/kimqMnWHlM]]></document>
+		<document><![CDATA[timer_* functions deprecated in favor of new Timer Component http://t.co/dbGxTL1ioa]]></document>
+		<document><![CDATA[ip_address() removed http://t.co/dloWjPKryb]]></document>
+		<document><![CDATA['Hidden' field widget is added to Drupal 8 http://t.co/lNrvFV5mTW]]></document>
+		<document><![CDATA[$options argument for xmlrpc() changed to a headers array http://t.co/IisJPbhyhK]]></document>
+		<document><![CDATA[template.php files in themes are renamed to THEMENAME.theme http://t.co/8SiLzZ7hfc]]></document>
+		<document><![CDATA[Update to jQuery 1.9 http://t.co/j5zZTnijOH]]></document>
+		<document><![CDATA[Configuration entities save in site default language by default http://t.co/nF05XAPVue]]></document>
+		<document><![CDATA[Bundle CRUD API moved from Field to Entity API http://t.co/NXk3L5a1Xy]]></document>
+		<document><![CDATA[delete http://t.co/RUTDqE5fVA]]></document>
+		<document><![CDATA[field_ui_field_type_options(), field_ui_widget_type_options() and field_ui_formatter_options() have been renamed http://t.co/bCGD1duBmx]]></document>
+		<document><![CDATA[drupal_exit has been removed http://t.co/Q8wFdM9YIh]]></document>
+		<document><![CDATA[Added AccountInterface as common interface for the global $user object and user entities https://t.co/WJ2IahGB0Z]]></document>
+		<document><![CDATA[String translation is now a service http://t.co/IgeacHhwas]]></document>
+		<document><![CDATA[Architect CSS: Rename files to match CSS file naming convention http://t.co/B2NXGgdwby]]></document>
+		<document><![CDATA[Filters are now annotated plugins instead of an info hook and callbacks http://t.co/Ev3iBGquZ1]]></document>
+		<document><![CDATA[Entity validation based on symfony validator http://t.co/P9nWzWZs1I]]></document>
+		<document><![CDATA[New accessibility feature: Drupal.tabbingManager http://t.co/rYspgBF6CA]]></document>
+		<document><![CDATA[New accessibility feature: Drupal.announce() http://t.co/NcMJ5Mi0Hc]]></document>
+		<document><![CDATA[Restricted extension name length to 50 characters http://t.co/YwiozFdQCh]]></document>
+		<document><![CDATA[The {file_usage}.id column has moved to varchar. https://t.co/8aSEjq9JuY]]></document>
+		<document><![CDATA[OpenId removed from core http://t.co/DBDdr7dt1Y]]></document>
+		<document><![CDATA[hook_init() removed http://t.co/FtSO00ZODP]]></document>
+		<document><![CDATA[Field and field instance are now configuration entities http://t.co/8K0jEg8NNX]]></document>
+		<document><![CDATA[Cache backends are responsible for their bins http://t.co/uiGYrCXILU]]></document>
+		<document><![CDATA[Test framework PHPUnit has been added http://t.co/7PHKGaThGi]]></document>
+		<document><![CDATA[Field Widget settings now stored independently to instance, new EntityFormDisplay config object https://t.co/fcy8HjJvoG]]></document>
+		<document><![CDATA[View Modes are stored in the config system https://t.co/c0lc5aSxu1]]></document>
+		<document><![CDATA[Plugins can receive injected dependencies from the container https://t.co/az5ki4Bc79]]></document>
+		<document><![CDATA[Controller derivation moved from RouteSubscriber to RouteEnhancers http://t.co/8RYei16XHc]]></document>
+		<document><![CDATA[Per-region block markup and per-region block templating feature removed http://t.co/ZeDwjWUouf]]></document>
+		<document><![CDATA[All core themes are now responsive http://t.co/aKCtFfTw1e]]></document>
+		<document><![CDATA[LANGAUGE_* constants are moved to the Language class http://t.co/SKECy7cyPD]]></document>
+		<document><![CDATA[Zebra striping variables removed from templates http://t.co/815SUqLtid]]></document>
+		<document><![CDATA[Action links are provided by hook_local_actions() instead of MENU_LOCAL_ACTION in hook_menu() http://t.co/B8m0VyEhbe]]></document>
+		<document><![CDATA[Batch API storage is now pluggable http://t.co/X1H45TWDuP]]></document>
+		<document><![CDATA[Node properties are made multilingual http://t.co/yUWUU5owhH]]></document>
+		<document><![CDATA[Formatter summaries return arrays instead of strings http://t.co/eAv9tOdEmt]]></document>
+		<document><![CDATA[hook_archiver_info has been deprecated http://t.co/wkP5t02BpP]]></document>
+		<document><![CDATA[Role entities are managed with RoleListController and RoleFormController http://t.co/UnniQOvm23]]></document>
+		<document><![CDATA[domready ships with core, drupal.js doesn't depend on jQuery http://t.co/2Z0nxn6N33]]></document>
+		<document><![CDATA[Image toolkits are plugins http://t.co/l3cqtWlXDr]]></document>
+		<document><![CDATA[New Unicode component http://t.co/x6xlbI7qF3]]></document>
+		<document><![CDATA[New "type" key for .info.yml http://t.co/wgZV8ucRcb]]></document>
+		<document><![CDATA[Ajax commands for opening and closing Dialogs and generic Dialog Controller added to core http://t.co/LblNLgWyFI]]></document>
+		<document><![CDATA[One page overview settings added for content/field translation settings http://t.co/6okxt7s301]]></document>
+		<document><![CDATA[theme_options_none() is replaced by hook_options_list_alter() http://t.co/kQBKtlRQBW]]></document>
+		<document><![CDATA[Taxonomy admin path converted to follow core entity patterns http://t.co/HKR4Nn7ZOB]]></document>
+		<document><![CDATA[Field UI form_id (and URL) changes http://t.co/EiPW3jjPx7]]></document>
+		<document><![CDATA[Cryptographic functions moved to a Crypt component http://t.co/Z0u9Jm421O]]></document>
+		<document><![CDATA[Book administration has been moved to admin/structure http://t.co/BmbI51fkpm]]></document>
+		<document><![CDATA[$is_https global removed http://t.co/aFrl6e35Iz]]></document>
+		<document><![CDATA[Field UI integration for entity types are no longer per-bundle, only per-entity type http://t.co/ZZrYwpbF6K]]></document>
+		<document><![CDATA[Route access control for entities can use _entity_access http://t.co/TDIxqmgie9]]></document>
+		<document><![CDATA[Each entity type should provide a specific interface extending EntityInterface http://t.co/yo6ZP3JlR3]]></document>
+		<document><![CDATA[Add new PHP constants for CSS weights and rename PHP constants for CSS aggregates http://t.co/VSLhzvTHsc]]></document>
+	</documents>
+</author>

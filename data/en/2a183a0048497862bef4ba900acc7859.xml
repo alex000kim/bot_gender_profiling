@@ -1,0 +1,104 @@
+<author lang="en">
+	<documents>
+		<document><![CDATA[Several cache bins now use APCu caching by default http://t.co/BoQOGU50YN]]></document>
+		<document><![CDATA[Internal Views special language machine codes have changed http://t.co/qJZNnB9PGO]]></document>
+		<document><![CDATA[views_language_list() has been moved to a class method http://t.co/9z2HH1ffXh]]></document>
+		<document><![CDATA[New ThirdPartySettingsInterface and ThirdPartySettingsTrait for configuration entities to store third party settings http://t.co/hnJ1i0pJ7E]]></document>
+		<document><![CDATA[Defining permissions via $module.permissions.yml in addition to hook_permission() http://t.co/k6QtHkISlb]]></document>
+		<document><![CDATA[COMMENT_FORM_BELOW and COMMENT_FORM_SEPARATE_PAGE moved to constants on CommentItem class http://t.co/zKqgfjcBPt]]></document>
+		<document><![CDATA[_node_revision_access() replaced http://t.co/E22OpzW3df]]></document>
+		<document><![CDATA['datetime' theme hook/template renamed to 'time' http://t.co/b5Q5tWDY6N]]></document>
+		<document><![CDATA[Existence of certain class can be tested on Attributes object http://t.co/xoSDe45xbJ]]></document>
+		<document><![CDATA[Added entity_view_mode_prepare() to allow entity-providing modules to invoke hook_entity_view_mode_alter() correctly http://t.co/TldTuvZXKB]]></document>
+		<document><![CDATA[New Variable component http://t.co/EbpoYJ0KEN]]></document>
+		<document><![CDATA[Configuration dependencies support content entity dependencies https://t.co/QMPxGGV91X]]></document>
+		<document><![CDATA[{{ feed_icons }} removed from page template (page.html.twig) http://t.co/NtOeUglHBk]]></document>
+		<document><![CDATA[Default body classes have been updated http://t.co/fsQd5usDhB]]></document>
+		<document><![CDATA[drupal_render_root() added: for the final rendering before sending a Response https://t.co/ckkT8rZ6QY]]></document>
+		<document><![CDATA[EntityInterface::getCacheTag() renamed to getCacheTags() http://t.co/AVeF1NYtRJ]]></document>
+		<document><![CDATA[Enforce that hook_page_build()/alter() can only be used for #attached http://t.co/a3uZR8pKdI]]></document>
+		<document><![CDATA[PluginBag has been renamed to LazyPluginCollection http://t.co/ahTysMOG3k]]></document>
+		<document><![CDATA[Creating a new image canvas is now an image toolkit operation http://t.co/ebxQKFYo3J]]></document>
+		<document><![CDATA[Remove #type link(s) support for href route_name, parameters and replace with url http://t.co/wobjUkSGP7]]></document>
+		<document><![CDATA[The values of Language::DIRECTION_RTL and Language::DIRECTION_LTR (used to be LANGUAGE_RTL and LANGUAGE_LTR) are... http://t.co/yQTcFmi2B7]]></document>
+		<document><![CDATA[Blocks are now plugins http://t.co/wRbSXZ9UhZ]]></document>
+		<document><![CDATA[Add assets in theme preprocess functions http://t.co/YOD9Mn2C2S]]></document>
+		<document><![CDATA['template' is now the default output option for hook_theme() http://t.co/Ia1eHTiRn1]]></document>
+		<document><![CDATA[Added a new base theme to core called Classy http://t.co/pUZFgFxEyq]]></document>
+		<document><![CDATA[Introduced FieldableEntityInterface (being implemented by ContentEntityInterface) http://t.co/kyXDiqUMCc]]></document>
+		<document><![CDATA[l() and url() are replaced by an improved URL generation API  http://t.co/0wkdF7ukrD]]></document>
+		<document><![CDATA[Global menus (primary links, secondary links) have been converted into blocks http://t.co/DxyvFyGY6b]]></document>
+		<document><![CDATA[The fieldable key has been removed from EntityType annotations http://t.co/d06vk0K550]]></document>
+		<document><![CDATA[ContentEntityInterface does not implement ComplexDataInterface/TypedDataInterface any more http://t.co/aHNXaGRzK6]]></document>
+		<document><![CDATA['list_text' field type renamed to 'list_string' http://t.co/NqoJdWIJ6Z]]></document>
+		<document><![CDATA[String formatters are split up into a basic string formatter and one which allows to link to an entity http://t.co/MrrHgtsPiF]]></document>
+		<document><![CDATA[hook_library_alter() is deprecated in favour of hook_library_info_alter() http://t.co/XtYR9Tv52x]]></document>
+		<document><![CDATA[All tests enforce strict configuration schema adherence by default http://t.co/KOsleDgfWo]]></document>
+		<document><![CDATA[Content translation entity bundle specific settings now use third party settings on language configuration http://t.co/Ij12F6LO1i]]></document>
+		<document><![CDATA[System Help block becomes Help block http://t.co/EHyL85ui0Y]]></document>
+		<document><![CDATA[install_drupal() and install_begin_request() have a new $class_loader argument http://t.co/xuDHLXgLp8]]></document>
+		<document><![CDATA[language.settings configuration replaced by configuration entities per bundle http://t.co/bqeadcMNKK]]></document>
+		<document><![CDATA[HTML functions moved to a component http://t.co/bfrMw0qim6]]></document>
+		<document><![CDATA[Change JavaScript settings into a separate asset type http://t.co/e1lDvRsyhQ]]></document>
+		<document><![CDATA[node_search_admin form now uses #type =&gt; table http://t.co/R2lbnKcRzZ]]></document>
+		<document><![CDATA[Mixed mode SSL session support removed from core http://t.co/mfrtVYA4Bb]]></document>
+		<document><![CDATA[new filter() method added to TypedData's ListInterface http://t.co/sSja4DWdPV]]></document>
+		<document><![CDATA[Views: 'access all views' permission removed http://t.co/CfgQig515t]]></document>
+		<document><![CDATA[Theme settings default values can not be set in a theme's info.yml files http://t.co/OwkYpiGLgB]]></document>
+		<document><![CDATA[Themes now use libraries exclusively, not individual stylesheets or JavaScript files http://t.co/87NMfcHJfn]]></document>
+		<document><![CDATA[Configuration schema for field settings, default values and entity view/form displays changed http://t.co/BLKQQZpjTS]]></document>
+		<document><![CDATA[Field settings, storage settings and widget/formatter settings now only persisted if they have defaults http://t.co/7CrArYNIqL]]></document>
+		<document><![CDATA[search_reindex() has been refactored into two different functions http://t.co/eUbdPV3qMp]]></document>
+		<document><![CDATA[SearchIndexingInterface methods updated http://t.co/NQtmSQflu3]]></document>
+		<document><![CDATA[Config translation form elements output both the source and the translation build and submit values themselves (... http://t.co/ddL5naD1eV]]></document>
+		<document><![CDATA[LanguageConfigOverrideEvents::SAVE_OVERRIDE and LanguageConfigOverrideEvents::DELETE_OVERRIDE events are introduced http://t.co/KHWfUjokz8]]></document>
+		<document><![CDATA[LanguageConfigOverride::getLangcode() is introduced http://t.co/IaU9cp8Ukk]]></document>
+		<document><![CDATA[Testing now uses Classy as the default theme instead of Stark http://t.co/fRxk8IzKPF]]></document>
+		<document><![CDATA[update_fetch_data_batch() and update_parse_xml() have been removed http://t.co/UibVqjGler]]></document>
+		<document><![CDATA[Routes use _controller instead of _content http://t.co/TlRr8g2lAp]]></document>
+		<document><![CDATA[Conditions / context system now allows for multiple configurable contexts http://t.co/OSQKfIjDLt]]></document>
+		<document><![CDATA[is_front variable moved to template_preprocess_page http://t.co/MTUKix61lq]]></document>
+		<document><![CDATA[app.root container parameter replaces DRUPAL_ROOT http://t.co/V388v0awx6]]></document>
+		<document><![CDATA[Added assert methods for determining if text has been escaped properly http://t.co/Lgaw0sjz37]]></document>
+		<document><![CDATA[Added methods for setting and removing attributes on Attribute objects http://t.co/G1IsQfAdrV]]></document>
+		<document><![CDATA[The default logo type for themes is SVG http://t.co/5fyJVL0MkD]]></document>
+		<document><![CDATA[Page cache stack middleware http://t.co/enMUxuQJgc]]></document>
+		<document><![CDATA[Twig loaders can now be added as tagged services http://t.co/xAbr96SP2Z]]></document>
+		<document><![CDATA[Twig templates can now be loaded based on theme registry data http://t.co/dpwWiT8CgY]]></document>
+		<document><![CDATA[New setting for trusted hostname configuration http://t.co/ufTEjemCnf]]></document>
+		<document><![CDATA[Finalize the assets API/optimize AJAX page state: remove drupal_get_(css|js)() and _drupal_add_(css|js|library)() http://t.co/91j8KxIAb7]]></document>
+		<document><![CDATA[ConfigFactory::setOverrideState() and ConfigFactory::getOverrideState() removed http://t.co/B6Av7bXbMg]]></document>
+		<document><![CDATA[Configuration objects by default are immutable. http://t.co/Yqiylzpneu]]></document>
+		<document><![CDATA[Add Renderer::getCacheableRenderArray() to encapsulate which data is needed for caching a render array http://t.co/Fntgt4mdqb]]></document>
+		<document><![CDATA[Entity annotation link templates are paths again http://t.co/mPJgBpa2e0]]></document>
+		<document><![CDATA[Language code validation supports numbers, made stricter http://t.co/czxHa1SGGC]]></document>
+		<document><![CDATA[Views' rewrite functionality now uses Twig. http://t.co/dD7xHY9JKN]]></document>
+		<document><![CDATA[Added file_url() function to Twig http://t.co/MTh1NlAGm1]]></document>
+		<document><![CDATA[hook_library_info_build() added for dynamic library definitions http://t.co/CFkhj2JMnb]]></document>
+		<document><![CDATA[Config dependencies can optionally be enforced http://t.co/760HzEtwHm]]></document>
+		<document><![CDATA[Forum module cannot be uninstalled until all content and configuration is removed http://t.co/iG4y2Xo3E6]]></document>
+		<document><![CDATA[The Bartik region 'Highlighted' has been removed http://t.co/TESDLmJYJx]]></document>
+		<document><![CDATA[Field schema no longer uses 'not null' entries http://t.co/LY1dfV5ZMv]]></document>
+		<document><![CDATA[Composer can now be used to manage Drupal core, modules, themes, PHP dependencies, etc. http://t.co/tZAuVo4RsV]]></document>
+		<document><![CDATA[Functions in the field &lt;-&gt; views integration got renamed (field_views_field_default_views_data, field_views_fiel... http://t.co/2Su5HHcZ1Q]]></document>
+		<document><![CDATA[Drupal 8 will upgrade to Symfony 3.0 in a minor release and drop Symfony 2.x backwards compatibility http://t.co/YjouDthw89]]></document>
+		<document><![CDATA[Cache tag invalidation moved to separate invalidator services and invalidator checksum provider, deleteTags() removed http://t.co/vTrIs2qfMT]]></document>
+		<document><![CDATA[An installer task can now return a list of batches http://t.co/8pzvgkuY0t]]></document>
+		<document><![CDATA[Search plugin interface has new method for page title https://t.co/Hkg10AcsPI]]></document>
+		<document><![CDATA[Entity type definitions now have a 'langcode' entity key https://t.co/bT5zsYZ00f]]></document>
+		<document><![CDATA[Icons in core/misc/ removed in favour of Libricons  http://t.co/D8Ww1CEuvQ]]></document>
+		<document><![CDATA[Language widget and formatter are now available  http://t.co/oSbMH1beXw]]></document>
+		<document><![CDATA[Language related view settings are moved to common place http://t.co/nP5qotD3fA]]></document>
+		<document><![CDATA[hook_stream_wrappers() replaced with tagged services http://t.co/U2JMPIL17k]]></document>
+		<document><![CDATA[Account switcher service added to safely impersonate user account http://t.co/N4yfm08jS0]]></document>
+		<document><![CDATA[Adding/re-using existing field in Field UI is now a separate task http://t.co/QbOlh8PajT]]></document>
+		<document><![CDATA[The private files directory is no longer configurable in the UI or available in config http://t.co/O1IHZe08WF]]></document>
+		<document><![CDATA['html' =&gt; TRUE option is removed from l() and link generator http://t.co/8BLZ5wkCRi]]></document>
+		<document><![CDATA[Classy's template subfolders reorganized http://t.co/KassC89UYX]]></document>
+		<document><![CDATA[Simplified definition format for sequences in configuration schemas http://t.co/wc5mgJhoeP]]></document>
+		<document><![CDATA[views_get_views_as_options() has been moved to a static method http://t.co/nsfPoGPUGn]]></document>
+		<document><![CDATA[views_get_disabled_views() has been moved to a static method http://t.co/Wx2HlmI741]]></document>
+		<document><![CDATA[views_get_enabled_views() has been moved to a static method http://t.co/1xiBWpZt93]]></document>
+		<document><![CDATA[Admin roles are stored on the roles itself http://t.co/ZpFFnSUTlc]]></document>
+	</documents>
+</author>
