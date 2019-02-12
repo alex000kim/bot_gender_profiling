@@ -27,7 +27,6 @@ Read 2M words
 Number of words:  397698
 Number of labels: 2
 Progress: 100.0%  words/sec/thread: 2356782  lr: 0.000000  loss: 0.343561  eta: 0h0m
-Progress: 100.0%  words/sec/thread: 2395386  lr: 0.000000  loss: 0.147270  eta: 0h0m
 # spanish
 $ fasttext supervised -input clean_data_fasttext_es/train_bot_human_data.txt -output clean_data_fasttext_es/bot_human_model
 Read 4M words
