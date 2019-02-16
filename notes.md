@@ -20,3 +20,8 @@ Some ideas to try:
 1.	Use https://fasttext.cc/  to establish baseline performance because it is simple a fast to train
 2.	Find pretrained ULMFiT model and fune-tune it
 3.	Try training a multi-task model
+
+
+# Educational resources:
+- Stanford's NLP course:
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
