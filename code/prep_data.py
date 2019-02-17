@@ -8,7 +8,7 @@ from pathlib import Path
 import pandas as pd
 
 
-def prep_all_data(xml_files, df_truth, clean_data_path, train_test_split):
+def prep_all_data(xml_files, format, df_truth, clean_data_path, train_test_split):
     random.shuffle(xml_files)
     train_xml_files = xml_files[:int(train_test_split * len(xml_files))]
     test_xml_files = xml_files[int(train_test_split * len(xml_files)):]
@@ -30,18 +30,30 @@ def prep_all_data(xml_files, df_truth, clean_data_path, train_test_split):
         all_dfs = pd.concat(df_lst)
         # https://stackoverflow.com/questions/29576430/shuffle-dataframe-rows
         all_dfs = all_dfs.sample(frac=1).reset_index(drop=True)
-        bot_human_data_path = str(clean_data_path / f'{train_or_test}_bot_human_data.txt')
-        gender_data_path = str(clean_data_path / f'{train_or_test}_gender_data.txt')
-        all_dfs.to_csv(bot_human_data_path, columns=['bot_human', 'text'], index=False,
-                       header=False, sep=' ')
-        all_dfs_gender = all_dfs[all_dfs['gender'] != '__label__bot']
-        all_dfs_gender.to_csv(gender_data_path, columns=['gender', 'text'], index=False,
-                       header=False, sep=' ')
-
+        if format == 'txt':
+            bot_human_data_path = str(clean_data_path / f'{train_or_test}_bot_human_data.txt')
+            gender_data_path = str(clean_data_path / f'{train_or_test}_gender_data.txt')
+            all_dfs.to_csv(bot_human_data_path, columns=['bot_human', 'text'], index=False,
+                           header=False, sep=' ')
+            all_dfs_gender = all_dfs[all_dfs['gender'] != '__label__bot']
+            all_dfs_gender.to_csv(gender_data_path, columns=['gender', 'text'], index=False,
+                                  header=False, sep=' ')
+        elif format == 'csv':
+            bot_human_data_path = str(clean_data_path / f'{train_or_test}_bot_human_data.csv')
+            gender_data_path = str(clean_data_path / f'{train_or_test}_gender_data.csv')
+            all_dfs.to_csv(bot_human_data_path, columns=['bot_human', 'text'], index=False)
+            all_dfs_gender = all_dfs[all_dfs['gender'] != 'bot']
+            all_dfs_gender.to_csv(gender_data_path, columns=['gender', 'text'], index=False)
+    print(clean_data_path)
 
 if __name__ == '__main__':
     random.seed(0)
-    parser = argparse.ArgumentParser(description='Prepare data in fasttext format')
+    parser = argparse.ArgumentParser(description='Prepare data')
+    parser.add_argument('--out_format',
+                        required=True,
+                        type=str,
+                        choices=['csv', 'txt'],
+                        help='Output format: `csv` (general) or `txt` (fasttext format)')
     parser.add_argument('--lang',
                         required=True,
                         type=str,
@@ -53,14 +65,15 @@ if __name__ == '__main__':
                         help='Train/test split ration. Default is 0.8')
 
     args = parser.parse_args()
+    out_format = args.out_format
     lang = args.lang
     train_test_split = args.train_test_split
-    proj_path = Path(__file__).parents[2]
+    proj_path = Path(__file__).parents[1]
     raw_data_path = proj_path / 'data'
-    clean_data_path = proj_path / f'clean_data_fasttext_{lang}'
+    clean_data_path = proj_path / f'clean_data_{out_format}_{lang}'
     os.makedirs(clean_data_path, exist_ok=True)
     lang_data_path = raw_data_path / lang
     xml_files = glob.glob(str(lang_data_path / '*.xml'))
     df_truth = pd.read_csv(lang_data_path / 'truth.txt', sep=':::', names=['author_id', 'bot_human', 'gender'],
                            engine='python')
-    prep_all_data(xml_files, df_truth, clean_data_path, train_test_split)
+    prep_all_data(xml_files, out_format, df_truth, clean_data_path, train_test_split)
