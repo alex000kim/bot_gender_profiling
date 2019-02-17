@@ -2,3 +2,4 @@
 *.iml
 *.pyc
 clean_data_*/
+.ipynb_checkpoints/

@@ -10,9 +10,13 @@ import pandas as pd
 
 def prep_all_data(xml_files, out_format, df_truth, clean_data_path, train_test_split):
     random.shuffle(xml_files)
-    train_xml_files = xml_files[:int(train_test_split * len(xml_files))]
-    test_xml_files = xml_files[int(train_test_split * len(xml_files)):]
-    for train_or_test, xml_file_files in [['train', train_xml_files], ['test', test_xml_files]]:
+    if train_test_split > 0 and train_test_split < 1.0:
+        train_xml_files = xml_files[:int(train_test_split * len(xml_files))]
+        test_xml_files = xml_files[int(train_test_split * len(xml_files)):]
+        train_test_list = [['train', train_xml_files], ['test', test_xml_files]]
+    else:
+        train_test_list = [['all', xml_files]]
+    for train_or_test, xml_file_files in train_test_list:
         df_lst = []
         for xml_fpath in xml_file_files:
             author_id = os.path.basename(xml_fpath).split('.')[0]
