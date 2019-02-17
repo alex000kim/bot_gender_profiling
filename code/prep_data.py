@@ -8,7 +8,7 @@ from pathlib import Path
 import pandas as pd
 
 
-def prep_all_data(xml_files, format, df_truth, clean_data_path, train_test_split):
+def prep_all_data(xml_files, out_format, df_truth, clean_data_path, train_test_split):
     random.shuffle(xml_files)
     train_xml_files = xml_files[:int(train_test_split * len(xml_files))]
     test_xml_files = xml_files[int(train_test_split * len(xml_files)):]
@@ -19,8 +19,10 @@ def prep_all_data(xml_files, format, df_truth, clean_data_path, train_test_split
             gender = df_truth.loc[df_truth['author_id'] == author_id]['gender'].values[0]
             bot_human = df_truth.loc[df_truth['author_id'] == author_id]['bot_human'].values[0]
             xml_root = xml.etree.ElementTree.parse(xml_fpath).getroot()
-            bot_human_label = f'__label__{bot_human}'
-            gender_label = f'__label__{gender}'
+            if out_format == 'txt':
+                bot_human_label, gender_label = f'__label__{bot_human}', f'__label__{gender}'
+            else:
+                bot_human_label, gender_label = bot_human, gender
             author_data = {'bot_human': bot_human_label, 'gender': gender_label, 'text': []}
             for doc in xml_root[0]:
                 text = doc.text.replace('\n', "").replace('"', '')
@@ -30,7 +32,7 @@ def prep_all_data(xml_files, format, df_truth, clean_data_path, train_test_split
         all_dfs = pd.concat(df_lst)
         # https://stackoverflow.com/questions/29576430/shuffle-dataframe-rows
         all_dfs = all_dfs.sample(frac=1).reset_index(drop=True)
-        if format == 'txt':
+        if out_format == 'txt':
             bot_human_data_path = str(clean_data_path / f'{train_or_test}_bot_human_data.txt')
             gender_data_path = str(clean_data_path / f'{train_or_test}_gender_data.txt')
             all_dfs.to_csv(bot_human_data_path, columns=['bot_human', 'text'], index=False,
@@ -38,7 +40,7 @@ def prep_all_data(xml_files, format, df_truth, clean_data_path, train_test_split
             all_dfs_gender = all_dfs[all_dfs['gender'] != '__label__bot']
             all_dfs_gender.to_csv(gender_data_path, columns=['gender', 'text'], index=False,
                                   header=False, sep=' ')
-        elif format == 'csv':
+        elif out_format == 'csv':
             bot_human_data_path = str(clean_data_path / f'{train_or_test}_bot_human_data.csv')
             gender_data_path = str(clean_data_path / f'{train_or_test}_gender_data.csv')
             all_dfs.to_csv(bot_human_data_path, columns=['bot_human', 'text'], index=False)
