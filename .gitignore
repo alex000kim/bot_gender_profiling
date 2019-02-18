@@ -3,3 +3,4 @@
 *.pyc
 clean_data_*/
 .ipynb_checkpoints/
+code/fasttext_exp/models/
