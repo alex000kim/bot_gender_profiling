@@ -25,3 +25,7 @@ Some ideas to try:
 # Educational resources:
 - Stanford's NLP course:
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+
+# Misc:
+- https://github.com/inspirehep/magpie
+"Magpie is a deep learning tool for multi-label text classification"
