@@ -11,8 +11,12 @@ $ source activate bot_gender
 
 1. Prepare data in the fasttext format. Splitting is performed on the author id level, i.e. all tweets of one author end up in either train or test dataset. Data preparation is done for both bot and gender detection tasks simultaneously.
 ```bash
+# for fasttext
 $ python code/prep_data.py --out_format txt --lang en
 $ python code/prep_data.py --out_format txt --lang es
+# for fastai
+$ python code/prep_data.py --out_format csv --lang en --train_test_split 1.0
+$ python code/prep_data.py --out_format csv --lang es --train_test_split 1.0
 ```
 2. Train fasttext classifier.
 ```bash
