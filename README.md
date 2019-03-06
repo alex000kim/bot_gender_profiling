@@ -20,7 +20,7 @@ $ python code/prep_data.py --out_format csv --lang es --train_test_split 1.0
 ```
 
 ### Run notebooks with papermill
-- fastai notebook:
+- fastai notebook (from `code/fastai_exp/` directory):
 ```bash
 papermill fastai_nb.ipynb papermill_out/fastai_nb_gender_en.ipynb -p LANG en -p TASK gender
 papermill fastai_nb.ipynb papermill_out/fastai_nb_gender_es.ipynb -p LANG es -p TASK gender
@@ -32,7 +32,7 @@ For spanish, I downloaded pretrained model from here:
 https://drive.google.com/drive/folders/1CZftqrMg-MRH9yXV7FRBv6J_NOtBiK-2
 See this thread for more details: https://forums.fast.ai/t/ulmfit-spanish/29715/5
 
-- fasttext notebook:
+- fasttext notebook (from `code/fasttext_exp/` directory):
 ```bash
 papermill fasttext_nb.ipynb papermill_out/fasttext_nb_gender_en.ipynb -p LANG en -p TASK gender
 papermill fasttext_nb.ipynb papermill_out/fasttext_nb_gender_es.ipynb -p LANG es -p TASK gender
